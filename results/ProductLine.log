@@ -1,0 +1,1372 @@
+Mandatory Feature Size=4
+Static,WebServer,Content,WebPortal,
+MustNotIn Feature Size=0
+
+Cost
+AdditionalServices=9.62,SiteStatistics=14.75,Basic=11.96,Advanced=12.03,SiteSearch=6.38,Images=7.9,Text=10.81,HTML=12.73,Dynamic=6.62,AdServer=11.61,Reports=9.35,Pop-ups=11.31,Banners=6.81,Image=13.05,Flash=8.98,KeywordSupport=13.26,Logging=11.19,DB=10.56,File=10.03,Protocols=6.85,NTTP=7.64,FTP=5.8,HTTPS=5.33,Active=5.44,ASP=9.75,PHP=14.1,JSP=8.54,CGI=13.72,Persistence=5.85,XML=6.7,Database=13.5,Security=5.18,DataStorage=11.97,DataTransfer=12.8,UserAuthentication=8.41,Performance=12.07,Ms=10.03,Sec=14.76,Min=10.76,Static=12.38,WebServer=5.45,Content=8.87,WebPortal=10.58,
+Defects
+AdditionalServices=5,SiteStatistics=5,Basic=8,Advanced=7,SiteSearch=6,Images=6,Text=3,HTML=8,Dynamic=3,AdServer=6,Reports=6,Pop-ups=6,Banners=5,Image=3,Flash=5,KeywordSupport=9,Logging=4,DB=4,File=5,Protocols=6,NTTP=4,FTP=2,HTTPS=4,Active=6,ASP=5,PHP=5,JSP=5,CGI=4,Persistence=6,XML=4,Database=5,Security=7,DataStorage=7,DataTransfer=6,UserAuthentication=3,Performance=6,Ms=3,Sec=6,Min=7,Static=5,WebServer=5,Content=3,WebPortal=6,
+NotUsedBefore
+AdditionalServices=false,SiteStatistics=true,Basic=false,Advanced=true,SiteSearch=false,Images=true,Text=true,HTML=false,Dynamic=false,AdServer=true,Reports=false,Pop-ups=false,Banners=true,Image=false,Flash=true,KeywordSupport=false,Logging=true,DB=false,File=true,Protocols=true,NTTP=true,FTP=false,HTTPS=false,Active=true,ASP=true,PHP=true,JSP=false,CGI=false,Persistence=false,XML=true,Database=true,Security=false,DataStorage=true,DataTransfer=false,UserAuthentication=false,Performance=false,Ms=true,Sec=false,Min=true,Static=true,WebServer=true,Content=true,WebPortal=false,
+current mode is seed mode
+
+1) Correctness=0.0, MissingFeature=4.0, NotUsedBefore=18.0, Defects=205.0, Cost=387.9100000000001, 
+SiteSearch,Protocols,Persistence,Database,ASP,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Security,Text,Advanced,Basic,Active,NTTP,DataStorage,Reports,AdServer,PHP,JSP,Dynamic,SiteStatistics,CGI,UserAuthentication,
+
+2) Correctness=0.0, MissingFeature=4.0, NotUsedBefore=19.0, Defects=205.0, Cost=380.58000000000004, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Security,Text,Advanced,Basic,Active,NTTP,DataStorage,Reports,AdServer,PHP,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+3) Correctness=0.0, MissingFeature=4.0, NotUsedBefore=20.0, Defects=206.0, Cost=376.58000000000004, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Security,Text,Advanced,Basic,Active,NTTP,DataStorage,Reports,AdServer,PHP,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+4) Correctness=0.0, MissingFeature=5.0, NotUsedBefore=17.0, Defects=198.0, Cost=375.88, 
+SiteSearch,Protocols,Persistence,Database,ASP,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,DataStorage,Reports,AdServer,PHP,JSP,Dynamic,SiteStatistics,CGI,UserAuthentication,
+
+5) Correctness=0.0, MissingFeature=5.0, NotUsedBefore=17.0, Defects=200.0, Cost=373.81000000000006, 
+SiteSearch,Protocols,Persistence,Database,ASP,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Security,Text,Advanced,Basic,Active,NTTP,DataStorage,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,UserAuthentication,
+
+6) Correctness=0.0, MissingFeature=5.0, NotUsedBefore=18.0, Defects=196.0, Cost=374.6500000000001, 
+SiteSearch,Protocols,Persistence,Database,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Security,Text,Advanced,Basic,Active,NTTP,DataStorage,Reports,AdServer,PHP,JSP,Dynamic,SiteStatistics,CGI,UserAuthentication,
+
+7) Correctness=0.0, MissingFeature=5.0, NotUsedBefore=18.0, Defects=198.0, Cost=368.55000000000007, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,DataStorage,Reports,AdServer,PHP,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+8) Correctness=0.0, MissingFeature=5.0, NotUsedBefore=18.0, Defects=200.0, Cost=366.48, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Security,Text,Advanced,Basic,Active,NTTP,DataStorage,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+9) Correctness=0.0, MissingFeature=5.0, NotUsedBefore=19.0, Defects=196.0, Cost=367.32000000000005, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Security,Text,Advanced,Basic,Active,NTTP,DataStorage,Reports,AdServer,PHP,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+10) Correctness=0.0, MissingFeature=5.0, NotUsedBefore=19.0, Defects=199.0, Cost=364.55000000000007, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Security,Text,Basic,Active,NTTP,DataStorage,Reports,AdServer,PHP,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+11) Correctness=0.0, MissingFeature=5.0, NotUsedBefore=19.0, Defects=201.0, Cost=362.48, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Security,Text,Advanced,Basic,Active,NTTP,DataStorage,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+12) Correctness=0.0, MissingFeature=5.0, NotUsedBefore=20.0, Defects=197.0, Cost=363.32000000000005, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Security,Text,Advanced,Basic,Active,NTTP,DataStorage,Reports,AdServer,PHP,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+13) Correctness=0.0, MissingFeature=6.0, NotUsedBefore=16.0, Defects=191.0, Cost=363.90999999999997, 
+SiteSearch,Protocols,Persistence,Database,ASP,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,Reports,AdServer,PHP,JSP,Dynamic,SiteStatistics,CGI,UserAuthentication,
+
+14) Correctness=0.0, MissingFeature=6.0, NotUsedBefore=16.0, Defects=193.0, Cost=361.78, 
+SiteSearch,Protocols,Persistence,Database,ASP,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,DataStorage,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,UserAuthentication,
+
+15) Correctness=0.0, MissingFeature=6.0, NotUsedBefore=17.0, Defects=189.0, Cost=362.62, 
+SiteSearch,Protocols,Persistence,Database,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,DataStorage,Reports,AdServer,PHP,JSP,Dynamic,SiteStatistics,CGI,UserAuthentication,
+
+16) Correctness=0.0, MissingFeature=6.0, NotUsedBefore=17.0, Defects=191.0, Cost=356.58000000000004, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,Reports,AdServer,PHP,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+17) Correctness=0.0, MissingFeature=6.0, NotUsedBefore=17.0, Defects=193.0, Cost=354.45000000000005, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,DataStorage,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+18) Correctness=0.0, MissingFeature=6.0, NotUsedBefore=18.0, Defects=189.0, Cost=355.28999999999996, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,DataStorage,Reports,AdServer,PHP,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+19) Correctness=0.0, MissingFeature=6.0, NotUsedBefore=18.0, Defects=191.0, Cost=353.22, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Security,Text,Advanced,Basic,Active,NTTP,DataStorage,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+20) Correctness=0.0, MissingFeature=6.0, NotUsedBefore=18.0, Defects=192.0, Cost=352.58000000000004, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Security,Text,Basic,Active,NTTP,Reports,AdServer,PHP,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+21) Correctness=0.0, MissingFeature=6.0, NotUsedBefore=18.0, Defects=194.0, Cost=350.45000000000005, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Security,Text,Basic,Active,NTTP,DataStorage,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+22) Correctness=0.0, MissingFeature=6.0, NotUsedBefore=19.0, Defects=190.0, Cost=351.28999999999996, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Security,Text,Basic,Active,NTTP,DataStorage,Reports,AdServer,PHP,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+23) Correctness=0.0, MissingFeature=6.0, NotUsedBefore=19.0, Defects=192.0, Cost=349.22, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Security,Text,Advanced,Basic,Active,NTTP,DataStorage,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+24) Correctness=0.0, MissingFeature=6.0, NotUsedBefore=19.0, Defects=197.0, Cost=348.76, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Security,Text,Advanced,Basic,Active,NTTP,DataStorage,Reports,AdServer,JSP,Dynamic,SiteStatistics,XML,UserAuthentication,
+
+25) Correctness=0.0, MissingFeature=6.0, NotUsedBefore=20.0, Defects=191.0, Cost=350.52, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,Security,Text,Advanced,Basic,Active,NTTP,DataStorage,Reports,AdServer,PHP,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+26) Correctness=0.0, MissingFeature=7.0, NotUsedBefore=15.0, Defects=185.0, Cost=356.01, 
+SiteSearch,Protocols,Persistence,Database,ASP,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,Reports,AdServer,PHP,JSP,Dynamic,SiteStatistics,CGI,UserAuthentication,
+
+27) Correctness=0.0, MissingFeature=7.0, NotUsedBefore=15.0, Defects=186.0, Cost=349.80999999999995, 
+SiteSearch,Protocols,Persistence,Database,ASP,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,UserAuthentication,
+
+28) Correctness=0.0, MissingFeature=7.0, NotUsedBefore=16.0, Defects=182.0, Cost=350.65, 
+SiteSearch,Protocols,Persistence,Database,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,Reports,AdServer,PHP,JSP,Dynamic,SiteStatistics,CGI,UserAuthentication,
+
+29) Correctness=0.0, MissingFeature=7.0, NotUsedBefore=16.0, Defects=184.0, Cost=348.52, 
+SiteSearch,Protocols,Persistence,Database,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,DataStorage,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,UserAuthentication,
+
+30) Correctness=0.0, MissingFeature=7.0, NotUsedBefore=16.0, Defects=186.0, Cost=342.48, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+31) Correctness=0.0, MissingFeature=7.0, NotUsedBefore=17.0, Defects=182.0, Cost=343.31999999999994, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,Reports,AdServer,PHP,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+32) Correctness=0.0, MissingFeature=7.0, NotUsedBefore=17.0, Defects=184.0, Cost=341.18999999999994, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,DataStorage,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+33) Correctness=0.0, MissingFeature=7.0, NotUsedBefore=17.0, Defects=187.0, Cost=338.48, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Security,Text,Basic,Active,NTTP,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+34) Correctness=0.0, MissingFeature=7.0, NotUsedBefore=18.0, Defects=183.0, Cost=339.31999999999994, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Security,Text,Basic,Active,NTTP,Reports,AdServer,PHP,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+35) Correctness=0.0, MissingFeature=7.0, NotUsedBefore=18.0, Defects=185.0, Cost=337.18999999999994, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Security,Text,Basic,Active,NTTP,DataStorage,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+36) Correctness=0.0, MissingFeature=7.0, NotUsedBefore=18.0, Defects=190.0, Cost=336.73, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Security,Text,Basic,Active,NTTP,DataStorage,Reports,AdServer,JSP,Dynamic,SiteStatistics,XML,UserAuthentication,
+
+37) Correctness=0.0, MissingFeature=7.0, NotUsedBefore=19.0, Defects=184.0, Cost=338.49, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,Security,Text,Basic,Active,NTTP,DataStorage,Reports,AdServer,PHP,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+38) Correctness=0.0, MissingFeature=7.0, NotUsedBefore=19.0, Defects=186.0, Cost=336.41999999999996, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,Security,Text,Advanced,Basic,Active,NTTP,DataStorage,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+39) Correctness=0.0, MissingFeature=7.0, NotUsedBefore=19.0, Defects=188.0, Cost=335.5, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Security,Text,Advanced,Basic,Active,NTTP,DataStorage,Reports,AdServer,JSP,Dynamic,SiteStatistics,XML,UserAuthentication,
+
+40) Correctness=0.0, MissingFeature=8.0, NotUsedBefore=14.0, Defects=180.0, Cost=341.90999999999997, 
+SiteSearch,Protocols,Persistence,Database,ASP,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,UserAuthentication,
+
+41) Correctness=0.0, MissingFeature=8.0, NotUsedBefore=14.0, Defects=181.0, Cost=340.05999999999995, 
+SiteSearch,Protocols,Persistence,Database,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,UserAuthentication,
+
+42) Correctness=0.0, MissingFeature=8.0, NotUsedBefore=15.0, Defects=176.0, Cost=342.75, 
+SiteSearch,Protocols,Persistence,Database,ASP,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,Reports,AdServer,PHP,JSP,Dynamic,SiteStatistics,CGI,UserAuthentication,
+
+43) Correctness=0.0, MissingFeature=8.0, NotUsedBefore=15.0, Defects=177.0, Cost=336.54999999999995, 
+SiteSearch,Protocols,Persistence,Database,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,UserAuthentication,
+
+44) Correctness=0.0, MissingFeature=8.0, NotUsedBefore=15.0, Defects=180.0, Cost=334.5799999999999, 
+SiteSearch,Protocols,Persistence,ASP,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+45) Correctness=0.0, MissingFeature=8.0, NotUsedBefore=15.0, Defects=181.0, Cost=332.73, 
+SiteSearch,Protocols,Persistence,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+46) Correctness=0.0, MissingFeature=8.0, NotUsedBefore=16.0, Defects=176.0, Cost=335.41999999999996, 
+SiteSearch,Protocols,Persistence,ASP,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,Reports,AdServer,PHP,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+47) Correctness=0.0, MissingFeature=8.0, NotUsedBefore=16.0, Defects=177.0, Cost=329.22, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+48) Correctness=0.0, MissingFeature=8.0, NotUsedBefore=16.0, Defects=180.0, Cost=327.74, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Security,Text,Active,NTTP,DataStorage,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+49) Correctness=0.0, MissingFeature=8.0, NotUsedBefore=17.0, Defects=176.0, Cost=328.5799999999999, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Security,Text,Active,NTTP,DataStorage,Reports,AdServer,PHP,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+50) Correctness=0.0, MissingFeature=8.0, NotUsedBefore=17.0, Defects=178.0, Cost=325.22, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Security,Text,Basic,Active,NTTP,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+51) Correctness=0.0, MissingFeature=8.0, NotUsedBefore=17.0, Defects=181.0, Cost=323.74, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Security,Text,Active,NTTP,DataStorage,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+52) Correctness=0.0, MissingFeature=8.0, NotUsedBefore=18.0, Defects=177.0, Cost=324.5799999999999, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Security,Text,Active,NTTP,DataStorage,Reports,AdServer,PHP,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+53) Correctness=0.0, MissingFeature=8.0, NotUsedBefore=18.0, Defects=179.0, Cost=324.39, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,Security,Text,Basic,Active,NTTP,DataStorage,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+54) Correctness=0.0, MissingFeature=8.0, NotUsedBefore=18.0, Defects=181.0, Cost=323.47, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Security,Text,Basic,Active,NTTP,DataStorage,Reports,AdServer,JSP,Dynamic,SiteStatistics,XML,UserAuthentication,
+
+55) Correctness=0.0, MissingFeature=8.0, NotUsedBefore=19.0, Defects=182.0, Cost=322.69999999999993, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,Security,Text,Advanced,Basic,Active,NTTP,DataStorage,Reports,AdServer,JSP,Dynamic,SiteStatistics,XML,UserAuthentication,
+
+56) Correctness=0.0, MissingFeature=9.0, NotUsedBefore=13.0, Defects=175.0, Cost=332.15999999999997, 
+SiteSearch,Protocols,Persistence,Database,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,UserAuthentication,
+
+57) Correctness=0.0, MissingFeature=9.0, NotUsedBefore=13.0, Defects=176.0, Cost=331.08000000000004, 
+SiteSearch,Protocols,Persistence,Database,Images,Logging,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,UserAuthentication,
+
+58) Correctness=0.0, MissingFeature=9.0, NotUsedBefore=14.0, Defects=171.0, Cost=328.65, 
+SiteSearch,Protocols,Persistence,Database,ASP,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,UserAuthentication,
+
+59) Correctness=0.0, MissingFeature=9.0, NotUsedBefore=14.0, Defects=172.0, Cost=326.79999999999995, 
+SiteSearch,Protocols,Persistence,Database,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,UserAuthentication,
+
+60) Correctness=0.0, MissingFeature=9.0, NotUsedBefore=14.0, Defects=173.0, Cost=323.1, 
+SiteSearch,Protocols,Persistence,Database,ASP,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Security,Text,Active,NTTP,Reports,AdServer,JSP,Dynamic,CGI,UserAuthentication,
+
+61) Correctness=0.0, MissingFeature=9.0, NotUsedBefore=14.0, Defects=177.0, Cost=321.26, 
+SiteSearch,Protocols,Persistence,ASP,Images,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+62) Correctness=0.0, MissingFeature=9.0, NotUsedBefore=15.0, Defects=169.0, Cost=323.93999999999994, 
+SiteSearch,Protocols,Persistence,Database,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Security,Text,Active,NTTP,Reports,AdServer,PHP,JSP,Dynamic,CGI,UserAuthentication,
+
+63) Correctness=0.0, MissingFeature=9.0, NotUsedBefore=15.0, Defects=171.0, Cost=321.31999999999994, 
+SiteSearch,Protocols,Persistence,ASP,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+64) Correctness=0.0, MissingFeature=9.0, NotUsedBefore=15.0, Defects=172.0, Cost=319.47, 
+SiteSearch,Protocols,Persistence,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+65) Correctness=0.0, MissingFeature=9.0, NotUsedBefore=15.0, Defects=173.0, Cost=315.77, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Security,Text,Active,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+66) Correctness=0.0, MissingFeature=9.0, NotUsedBefore=16.0, Defects=169.0, Cost=316.61, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Security,Text,Active,NTTP,Reports,AdServer,PHP,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+67) Correctness=0.0, MissingFeature=9.0, NotUsedBefore=16.0, Defects=171.0, Cost=314.48, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Security,Text,Active,NTTP,DataStorage,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+68) Correctness=0.0, MissingFeature=9.0, NotUsedBefore=16.0, Defects=174.0, Cost=311.77, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Security,Text,Active,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+69) Correctness=0.0, MissingFeature=9.0, NotUsedBefore=17.0, Defects=170.0, Cost=312.61, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Security,Text,Active,NTTP,Reports,AdServer,PHP,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+70) Correctness=0.0, MissingFeature=9.0, NotUsedBefore=17.0, Defects=172.0, Cost=310.48, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Security,Text,Active,NTTP,DataStorage,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+71) Correctness=0.0, MissingFeature=9.0, NotUsedBefore=17.0, Defects=177.0, Cost=310.02, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Security,Text,Active,NTTP,DataStorage,Reports,AdServer,JSP,Dynamic,XML,UserAuthentication,
+
+72) Correctness=0.0, MissingFeature=9.0, NotUsedBefore=18.0, Defects=171.0, Cost=311.78, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,Security,Text,Active,NTTP,DataStorage,Reports,AdServer,PHP,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+73) Correctness=0.0, MissingFeature=10.0, NotUsedBefore=12.0, Defects=170.0, Cost=323.17999999999995, 
+SiteSearch,Protocols,Persistence,Database,Logging,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,UserAuthentication,
+
+74) Correctness=0.0, MissingFeature=10.0, NotUsedBefore=13.0, Defects=166.0, Cost=318.9, 
+SiteSearch,Protocols,Persistence,Database,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,UserAuthentication,
+
+75) Correctness=0.0, MissingFeature=10.0, NotUsedBefore=13.0, Defects=167.0, Cost=315.20000000000005, 
+SiteSearch,Protocols,Persistence,Database,ASP,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Security,Text,Active,NTTP,Reports,AdServer,JSP,Dynamic,CGI,UserAuthentication,
+
+76) Correctness=0.0, MissingFeature=10.0, NotUsedBefore=13.0, Defects=168.0, Cost=313.35, 
+SiteSearch,Protocols,Persistence,Database,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Security,Text,Active,NTTP,Reports,AdServer,JSP,Dynamic,CGI,UserAuthentication,
+
+77) Correctness=0.0, MissingFeature=10.0, NotUsedBefore=13.0, Defects=172.0, Cost=311.51, 
+SiteSearch,Protocols,Persistence,Images,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,Banners,Sec,DataTransfer,Security,Text,Basic,Active,NTTP,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+78) Correctness=0.0, MissingFeature=10.0, NotUsedBefore=14.0, Defects=163.0, Cost=316.03999999999996, 
+SiteSearch,Protocols,Persistence,Database,ASP,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Security,Text,Active,NTTP,Reports,AdServer,PHP,JSP,Dynamic,CGI,UserAuthentication,
+
+79) Correctness=0.0, MissingFeature=10.0, NotUsedBefore=14.0, Defects=164.0, Cost=309.84000000000003, 
+SiteSearch,Protocols,Persistence,Database,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Security,Text,Active,NTTP,Reports,AdServer,JSP,Dynamic,CGI,UserAuthentication,
+
+80) Correctness=0.0, MissingFeature=10.0, NotUsedBefore=14.0, Defects=167.0, Cost=307.87, 
+SiteSearch,Protocols,Persistence,ASP,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Security,Text,Active,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+81) Correctness=0.0, MissingFeature=10.0, NotUsedBefore=14.0, Defects=168.0, Cost=306.02, 
+SiteSearch,Protocols,Persistence,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Security,Text,Active,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+82) Correctness=0.0, MissingFeature=10.0, NotUsedBefore=15.0, Defects=163.0, Cost=308.71000000000004, 
+SiteSearch,Protocols,Persistence,ASP,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Security,Text,Active,NTTP,Reports,AdServer,PHP,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+83) Correctness=0.0, MissingFeature=10.0, NotUsedBefore=15.0, Defects=164.0, Cost=302.51, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Security,Text,Active,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+84) Correctness=0.0, MissingFeature=10.0, NotUsedBefore=15.0, Defects=169.0, Cost=302.02, 
+SiteSearch,Protocols,Persistence,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Security,Text,Active,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+85) Correctness=0.0, MissingFeature=10.0, NotUsedBefore=16.0, Defects=163.0, Cost=303.80999999999995, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,Security,Text,Active,NTTP,Reports,AdServer,PHP,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+86) Correctness=0.0, MissingFeature=10.0, NotUsedBefore=16.0, Defects=165.0, Cost=298.51, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Security,Text,Active,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+87) Correctness=0.0, MissingFeature=10.0, NotUsedBefore=16.0, Defects=170.0, Cost=298.04999999999995, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Security,Text,Active,NTTP,Reports,AdServer,JSP,Dynamic,XML,UserAuthentication,
+
+88) Correctness=0.0, MissingFeature=10.0, NotUsedBefore=17.0, Defects=164.0, Cost=299.80999999999995, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,Security,Text,Active,NTTP,Reports,AdServer,PHP,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+89) Correctness=0.0, MissingFeature=10.0, NotUsedBefore=17.0, Defects=166.0, Cost=297.67999999999995, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,Security,Text,Active,NTTP,DataStorage,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+90) Correctness=0.0, MissingFeature=10.0, NotUsedBefore=17.0, Defects=168.0, Cost=296.76, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Text,Active,Security,NTTP,DataStorage,Reports,AdServer,JSP,Dynamic,XML,UserAuthentication,
+
+91) Correctness=0.0, MissingFeature=11.0, NotUsedBefore=11.0, Defects=166.0, Cost=315.53999999999996, 
+SiteSearch,Protocols,Persistence,Database,Logging,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Text,Basic,Active,Security,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,UserAuthentication,
+
+92) Correctness=0.0, MissingFeature=11.0, NotUsedBefore=12.0, Defects=161.0, Cost=309.91999999999996, 
+SiteSearch,Protocols,Persistence,Database,Logging,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Text,Basic,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,UserAuthentication,
+
+93) Correctness=0.0, MissingFeature=11.0, NotUsedBefore=12.0, Defects=162.0, Cost=305.45000000000005, 
+SiteSearch,Protocols,Persistence,Database,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,UserAuthentication,
+
+94) Correctness=0.0, MissingFeature=11.0, NotUsedBefore=12.0, Defects=163.0, Cost=304.37, 
+SiteSearch,Protocols,Persistence,Database,Images,Logging,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,UserAuthentication,
+
+95) Correctness=0.0, MissingFeature=11.0, NotUsedBefore=12.0, Defects=166.0, Cost=303.61, 
+SiteSearch,Protocols,Persistence,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,Banners,Sec,DataTransfer,Text,Basic,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+96) Correctness=0.0, MissingFeature=11.0, NotUsedBefore=12.0, Defects=167.0, Cost=302.53, 
+SiteSearch,Protocols,Persistence,Images,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,Banners,Sec,DataTransfer,Text,Basic,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+97) Correctness=0.0, MissingFeature=11.0, NotUsedBefore=13.0, Defects=158.0, Cost=301.94000000000005, 
+SiteSearch,Protocols,Persistence,Database,ASP,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,UserAuthentication,
+
+98) Correctness=0.0, MissingFeature=11.0, NotUsedBefore=13.0, Defects=159.0, Cost=300.09000000000003, 
+SiteSearch,Protocols,Persistence,Database,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,UserAuthentication,
+
+99) Correctness=0.0, MissingFeature=11.0, NotUsedBefore=13.0, Defects=162.0, Cost=298.12, 
+SiteSearch,Protocols,Persistence,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+100) Correctness=0.0, MissingFeature=11.0, NotUsedBefore=13.0, Defects=163.0, Cost=297.03999999999996, 
+SiteSearch,Protocols,Persistence,Images,Logging,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+101) Correctness=0.0, MissingFeature=11.0, NotUsedBefore=13.0, Defects=164.0, Cost=294.54999999999995, 
+SiteSearch,Protocols,Persistence,ASP,Images,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,Banners,Sec,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+102) Correctness=0.0, MissingFeature=11.0, NotUsedBefore=14.0, Defects=157.0, Cost=303.24, 
+SiteSearch,Protocols,Persistence,Database,ASP,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,Security,Text,Active,NTTP,Reports,AdServer,PHP,JSP,Dynamic,CGI,UserAuthentication,
+
+103) Correctness=0.0, MissingFeature=11.0, NotUsedBefore=14.0, Defects=158.0, Cost=294.61, 
+SiteSearch,Protocols,Persistence,ASP,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+104) Correctness=0.0, MissingFeature=11.0, NotUsedBefore=14.0, Defects=159.0, Cost=292.76, 
+SiteSearch,Protocols,Persistence,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+105) Correctness=0.0, MissingFeature=11.0, NotUsedBefore=14.0, Defects=164.0, Cost=292.29999999999995, 
+SiteSearch,Protocols,Persistence,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,XML,UserAuthentication,
+
+106) Correctness=0.0, MissingFeature=11.0, NotUsedBefore=14.0, Defects=165.0, Cost=290.54999999999995, 
+SiteSearch,Protocols,Persistence,ASP,Images,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,Banners,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+107) Correctness=0.0, MissingFeature=11.0, NotUsedBefore=15.0, Defects=157.0, Cost=295.90999999999997, 
+SiteSearch,Protocols,Persistence,ASP,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,Security,Text,Active,NTTP,Reports,AdServer,PHP,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+108) Correctness=0.0, MissingFeature=11.0, NotUsedBefore=15.0, Defects=158.0, Cost=289.7099999999999, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,Security,Text,Active,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+109) Correctness=0.0, MissingFeature=11.0, NotUsedBefore=15.0, Defects=160.0, Cost=288.76, 
+SiteSearch,Protocols,Persistence,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+110) Correctness=0.0, MissingFeature=11.0, NotUsedBefore=15.0, Defects=165.0, Cost=288.29999999999995, 
+SiteSearch,Protocols,Persistence,Images,Logging,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,XML,UserAuthentication,
+
+111) Correctness=0.0, MissingFeature=11.0, NotUsedBefore=16.0, Defects=156.0, Cost=301.0799999999999, 
+SiteSearch,Protocols,Persistence,Database,ASP,Ms,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,FTP,AdditionalServices,DB,Banners,Security,Text,Active,NTTP,Reports,AdServer,PHP,JSP,Dynamic,CGI,UserAuthentication,
+
+112) Correctness=0.0, MissingFeature=11.0, NotUsedBefore=16.0, Defects=157.0, Cost=289.78, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Security,Text,Active,NTTP,Reports,AdServer,PHP,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+113) Correctness=0.0, MissingFeature=11.0, NotUsedBefore=16.0, Defects=159.0, Cost=285.7099999999999, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,Security,Text,Active,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+114) Correctness=0.0, MissingFeature=11.0, NotUsedBefore=16.0, Defects=161.0, Cost=284.78999999999996, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,XML,UserAuthentication,
+
+115) Correctness=0.0, MissingFeature=11.0, NotUsedBefore=17.0, Defects=156.0, Cost=293.7499999999999, 
+SiteSearch,Protocols,Persistence,ASP,Ms,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,FTP,AdditionalServices,File,Banners,Security,Text,Active,NTTP,Reports,AdServer,PHP,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+116) Correctness=0.0, MissingFeature=11.0, NotUsedBefore=17.0, Defects=158.0, Cost=288.49999999999994, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,Security,Text,Active,NTTP,Reports,AdServer,PHP,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+117) Correctness=0.0, MissingFeature=11.0, NotUsedBefore=17.0, Defects=162.0, Cost=283.9599999999999, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,Text,Active,Security,NTTP,DataStorage,Reports,AdServer,JSP,Dynamic,XML,UserAuthentication,
+
+118) Correctness=0.0, MissingFeature=12.0, NotUsedBefore=11.0, Defects=157.0, Cost=296.47, 
+SiteSearch,Protocols,Persistence,Database,Logging,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,UserAuthentication,
+
+119) Correctness=0.0, MissingFeature=12.0, NotUsedBefore=11.0, Defects=161.0, Cost=294.63, 
+SiteSearch,Protocols,Persistence,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,Banners,Sec,DataTransfer,Text,Basic,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+120) Correctness=0.0, MissingFeature=12.0, NotUsedBefore=12.0, Defects=153.0, Cost=292.19, 
+SiteSearch,Protocols,Persistence,Database,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,UserAuthentication,
+
+121) Correctness=0.0, MissingFeature=12.0, NotUsedBefore=12.0, Defects=154.0, Cost=291.11, 
+SiteSearch,Protocols,Persistence,Database,Images,Logging,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,UserAuthentication,
+
+122) Correctness=0.0, MissingFeature=12.0, NotUsedBefore=12.0, Defects=157.0, Cost=289.14, 
+SiteSearch,Protocols,Persistence,Logging,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+123) Correctness=0.0, MissingFeature=12.0, NotUsedBefore=12.0, Defects=158.0, Cost=286.65, 
+SiteSearch,Protocols,Persistence,ASP,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,Banners,Sec,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+124) Correctness=0.0, MissingFeature=12.0, NotUsedBefore=12.0, Defects=159.0, Cost=284.79999999999995, 
+SiteSearch,Protocols,Persistence,Images,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,Banners,Sec,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+125) Correctness=0.0, MissingFeature=12.0, NotUsedBefore=13.0, Defects=152.0, Cost=289.14, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Database,ASP,DB,Banners,Sec,Logging,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,CGI,Performance,UserAuthentication,HTTPS,
+
+126) Correctness=0.0, MissingFeature=12.0, NotUsedBefore=13.0, Defects=153.0, Cost=284.86, 
+SiteSearch,Protocols,Persistence,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+127) Correctness=0.0, MissingFeature=12.0, NotUsedBefore=13.0, Defects=154.0, Cost=283.78, 
+SiteSearch,Protocols,Persistence,Images,Logging,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+128) Correctness=0.0, MissingFeature=12.0, NotUsedBefore=13.0, Defects=155.0, Cost=281.28999999999996, 
+SiteSearch,Protocols,Persistence,ASP,Images,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,Banners,Sec,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+129) Correctness=0.0, MissingFeature=12.0, NotUsedBefore=13.0, Defects=160.0, Cost=280.79999999999995, 
+SiteSearch,Protocols,Persistence,Images,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,Banners,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+130) Correctness=0.0, MissingFeature=12.0, NotUsedBefore=14.0, Defects=151.0, Cost=289.21000000000004, 
+SiteSearch,Protocols,Persistence,Database,ASP,Logging,Flash,HTML,Image,Pop-ups,HTTPS,FTP,AdditionalServices,DB,Banners,DataTransfer,Security,Text,Active,NTTP,Reports,AdServer,PHP,JSP,Dynamic,CGI,UserAuthentication,
+
+131) Correctness=0.0, MissingFeature=12.0, NotUsedBefore=14.0, Defects=152.0, Cost=281.80999999999995, 
+SiteSearch,Protocols,Persistence,ASP,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+132) Correctness=0.0, MissingFeature=12.0, NotUsedBefore=14.0, Defects=153.0, Cost=279.9599999999999, 
+SiteSearch,Protocols,Persistence,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+133) Correctness=0.0, MissingFeature=12.0, NotUsedBefore=14.0, Defects=155.0, Cost=279.03999999999996, 
+SiteSearch,Protocols,Persistence,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,XML,UserAuthentication,
+
+134) Correctness=0.0, MissingFeature=12.0, NotUsedBefore=14.0, Defects=156.0, Cost=277.28999999999996, 
+SiteSearch,Protocols,Persistence,ASP,Images,Flash,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,Banners,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+135) Correctness=0.0, MissingFeature=12.0, NotUsedBefore=14.0, Defects=161.0, Cost=276.8299999999999, 
+SiteSearch,Protocols,Persistence,ASP,Images,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,Banners,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,XML,UserAuthentication,
+
+136) Correctness=0.0, MissingFeature=12.0, NotUsedBefore=15.0, Defects=150.0, Cost=293.17999999999995, 
+SiteSearch,Protocols,Persistence,Database,ASP,Ms,Logging,Flash,HTML,Image,Pop-ups,Performance,FTP,AdditionalServices,DB,Banners,Text,Active,Security,NTTP,Reports,AdServer,PHP,JSP,Dynamic,CGI,UserAuthentication,
+
+137) Correctness=0.0, MissingFeature=12.0, NotUsedBefore=15.0, Defects=151.0, Cost=281.88, 
+SiteSearch,Protocols,Persistence,ASP,Logging,Flash,HTML,Image,Pop-ups,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Security,Text,Active,NTTP,Reports,AdServer,PHP,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+138) Correctness=0.0, MissingFeature=12.0, NotUsedBefore=15.0, Defects=152.0, Cost=275.67999999999995, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Security,Text,Active,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+139) Correctness=0.0, MissingFeature=12.0, NotUsedBefore=15.0, Defects=156.0, Cost=275.03999999999996, 
+SiteSearch,Protocols,Persistence,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,XML,UserAuthentication,
+
+140) Correctness=0.0, MissingFeature=12.0, NotUsedBefore=16.0, Defects=150.0, Cost=285.84999999999997, 
+SiteSearch,Protocols,Persistence,ASP,Ms,Logging,Flash,HTML,Image,Pop-ups,Performance,FTP,AdditionalServices,File,Banners,Text,Active,Security,NTTP,Reports,AdServer,PHP,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+141) Correctness=0.0, MissingFeature=12.0, NotUsedBefore=16.0, Defects=151.0, Cost=276.97999999999996, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,HTTPS,FTP,AdditionalServices,File,Banners,Security,Text,Active,NTTP,Reports,AdServer,PHP,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+142) Correctness=0.0, MissingFeature=12.0, NotUsedBefore=16.0, Defects=153.0, Cost=274.4, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+143) Correctness=0.0, MissingFeature=12.0, NotUsedBefore=16.0, Defects=155.0, Cost=271.98999999999995, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,XML,UserAuthentication,
+
+144) Correctness=0.0, MissingFeature=12.0, NotUsedBefore=17.0, Defects=150.0, Cost=282.43999999999994, 
+SiteSearch,Protocols,Persistence,ASP,Ms,Images,Logging,Flash,HTML,Image,Performance,FTP,AdditionalServices,File,Banners,Text,Active,Security,NTTP,Reports,AdServer,PHP,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+145) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=10.0, Defects=153.0, Cost=288.83000000000004, 
+SiteSearch,Protocols,Persistence,Database,Logging,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Text,Active,Security,Reports,AdServer,JSP,Dynamic,CGI,UserAuthentication,
+
+146) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=10.0, Defects=157.0, Cost=286.99, 
+SiteSearch,Protocols,Persistence,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,Banners,Sec,DataTransfer,Text,Basic,Active,Security,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+147) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=11.0, Defects=148.0, Cost=283.21000000000004, 
+SiteSearch,Protocols,Persistence,Database,Logging,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,UserAuthentication,
+
+148) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=11.0, Defects=152.0, Cost=281.37, 
+SiteSearch,Protocols,Persistence,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,Banners,Sec,DataTransfer,Text,Basic,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,SiteStatistics,CGI,XML,UserAuthentication,
+
+149) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=11.0, Defects=153.0, Cost=276.9, 
+SiteSearch,Protocols,Persistence,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,Banners,Sec,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+150) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=11.0, Defects=154.0, Cost=275.81999999999994, 
+SiteSearch,Protocols,Persistence,Images,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,Banners,Sec,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+151) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=12.0, Defects=147.0, Cost=279.39, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Database,DB,Banners,Sec,Logging,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,CGI,Performance,UserAuthentication,HTTPS,
+
+152) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=12.0, Defects=148.0, Cost=275.88, 
+SiteSearch,Protocols,Persistence,Logging,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+153) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=12.0, Defects=149.0, Cost=273.39, 
+SiteSearch,Protocols,Persistence,ASP,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,Banners,Sec,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+154) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=12.0, Defects=150.0, Cost=271.53999999999996, 
+SiteSearch,Protocols,Persistence,Images,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,Banners,Sec,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+155) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=12.0, Defects=155.0, Cost=271.0799999999999, 
+SiteSearch,Protocols,Persistence,Images,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,Banners,Sec,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,XML,UserAuthentication,
+
+156) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=13.0, Defects=146.0, Cost=275.11, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Database,ASP,DB,Banners,DataTransfer,Logging,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,CGI,UserAuthentication,HTTPS,
+
+157) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=13.0, Defects=147.0, Cost=272.05999999999995, 
+SiteSearch,Protocols,Persistence,Logging,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+158) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=13.0, Defects=148.0, Cost=270.97999999999996, 
+SiteSearch,Protocols,Persistence,Images,Logging,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,File,Banners,Sec,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+159) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=13.0, Defects=149.0, Cost=268.48999999999995, 
+SiteSearch,Protocols,Persistence,ASP,Images,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,Banners,Sec,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+160) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=13.0, Defects=151.0, Cost=267.53999999999996, 
+SiteSearch,Protocols,Persistence,Images,Flash,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,Banners,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+161) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=13.0, Defects=156.0, Cost=267.0799999999999, 
+SiteSearch,Protocols,Persistence,Images,Flash,KeywordSupport,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,Banners,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,XML,UserAuthentication,
+
+162) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=14.0, Defects=145.0, Cost=276.40999999999997, 
+SiteSearch,Protocols,Persistence,Database,ASP,Logging,Flash,HTML,Image,Pop-ups,HTTPS,FTP,AdditionalServices,DB,Banners,Security,Text,Active,NTTP,Reports,AdServer,PHP,JSP,Dynamic,CGI,UserAuthentication,
+
+163) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=14.0, Defects=146.0, Cost=267.78, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,ASP,Banners,DataTransfer,Logging,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,CGI,XML,UserAuthentication,HTTPS,
+
+164) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=14.0, Defects=147.0, Cost=265.92999999999995, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,Images,Banners,DataTransfer,Logging,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,CGI,XML,UserAuthentication,HTTPS,
+
+165) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=14.0, Defects=150.0, Cost=264.48999999999995, 
+SiteSearch,Protocols,Persistence,ASP,Images,Flash,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,Banners,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+166) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=14.0, Defects=152.0, Cost=263.56999999999994, 
+SiteSearch,Protocols,Persistence,ASP,Images,Flash,HTML,Image,Pop-ups,Performance,Min,HTTPS,FTP,AdditionalServices,Banners,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,XML,UserAuthentication,
+
+167) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=15.0, Defects=144.0, Cost=281.87, 
+SiteSearch,Protocols,Persistence,Database,ASP,Ms,Logging,Flash,HTML,Image,Performance,FTP,AdditionalServices,DB,Banners,Text,Active,Security,NTTP,Reports,AdServer,PHP,JSP,Dynamic,CGI,UserAuthentication,
+
+168) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=15.0, Defects=145.0, Cost=269.08, 
+SiteSearch,Protocols,Persistence,ASP,Logging,Flash,HTML,Image,Pop-ups,HTTPS,FTP,AdditionalServices,File,Banners,Security,Text,Active,NTTP,Reports,AdServer,PHP,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+169) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=15.0, Defects=146.0, Cost=262.88, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Pop-ups,HTTPS,FTP,AdditionalServices,File,Banners,Security,Text,Active,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+170) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=15.0, Defects=148.0, Cost=261.96, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,ASP,Images,Banners,DataTransfer,Logging,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,XML,UserAuthentication,HTTPS,
+
+171) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=16.0, Defects=144.0, Cost=274.53999999999996, 
+SiteSearch,Protocols,Persistence,ASP,Ms,Logging,Flash,HTML,Image,Performance,FTP,AdditionalServices,File,Banners,Text,Active,Security,NTTP,Reports,AdServer,PHP,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+172) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=16.0, Defects=145.0, Cost=265.66999999999996, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,HTTPS,FTP,AdditionalServices,File,Banners,Security,Text,Active,NTTP,Reports,AdServer,PHP,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+173) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=16.0, Defects=149.0, Cost=260.67999999999995, 
+SiteSearch,Protocols,Persistence,ASP,Images,Logging,Flash,HTML,Image,Performance,Min,HTTPS,FTP,AdditionalServices,File,Banners,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,XML,UserAuthentication,
+
+174) Correctness=0.0, MissingFeature=14.0, NotUsedBefore=10.0, Defects=144.0, Cost=275.57, 
+SiteSearch,Protocols,Persistence,Database,Logging,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,DB,Banners,Sec,DataTransfer,Text,Active,Security,Reports,AdServer,JSP,Dynamic,CGI,UserAuthentication,
+
+175) Correctness=0.0, MissingFeature=14.0, NotUsedBefore=10.0, Defects=148.0, Cost=267.91999999999996, 
+SiteSearch,Protocols,Persistence,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,Banners,Sec,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+176) Correctness=0.0, MissingFeature=14.0, NotUsedBefore=11.0, Defects=142.0, Cost=270.40999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Database,DB,Banners,Sec,Logging,Security,Active,Text,NTTP,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,CGI,Performance,UserAuthentication,HTTPS,
+
+177) Correctness=0.0, MissingFeature=14.0, NotUsedBefore=11.0, Defects=144.0, Cost=263.64, 
+SiteSearch,Protocols,Persistence,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,Banners,Sec,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+178) Correctness=0.0, MissingFeature=14.0, NotUsedBefore=11.0, Defects=145.0, Cost=262.55999999999995, 
+SiteSearch,Protocols,Persistence,Images,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,Banners,Sec,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,CGI,XML,UserAuthentication,
+
+179) Correctness=0.0, MissingFeature=14.0, NotUsedBefore=11.0, Defects=150.0, Cost=262.09999999999997, 
+SiteSearch,Protocols,Persistence,Images,KeywordSupport,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,Banners,Sec,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,XML,UserAuthentication,
+
+180) Correctness=0.0, MissingFeature=14.0, NotUsedBefore=12.0, Defects=141.0, Cost=265.36, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Database,DB,Banners,DataTransfer,Logging,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,CGI,UserAuthentication,HTTPS,
+
+181) Correctness=0.0, MissingFeature=14.0, NotUsedBefore=12.0, Defects=142.0, Cost=263.08, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,Banners,Sec,Logging,Security,Active,Text,NTTP,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,CGI,Performance,XML,UserAuthentication,HTTPS,
+
+182) Correctness=0.0, MissingFeature=14.0, NotUsedBefore=12.0, Defects=143.0, Cost=260.59, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,ASP,Banners,Sec,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,CGI,Performance,XML,UserAuthentication,HTTPS,
+
+183) Correctness=0.0, MissingFeature=14.0, NotUsedBefore=12.0, Defects=144.0, Cost=258.73999999999995, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Images,Banners,Sec,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,CGI,Performance,XML,UserAuthentication,HTTPS,
+
+184) Correctness=0.0, MissingFeature=14.0, NotUsedBefore=12.0, Defects=146.0, Cost=257.81999999999994, 
+SiteSearch,Protocols,Persistence,Images,Flash,HTML,Image,Pop-ups,Performance,HTTPS,FTP,AdditionalServices,Banners,Sec,DataTransfer,Text,Active,Security,NTTP,Reports,AdServer,JSP,Dynamic,XML,UserAuthentication,
+
+185) Correctness=0.0, MissingFeature=14.0, NotUsedBefore=13.0, Defects=140.0, Cost=262.31, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Database,ASP,DB,Banners,Logging,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,CGI,UserAuthentication,HTTPS,
+
+186) Correctness=0.0, MissingFeature=14.0, NotUsedBefore=13.0, Defects=141.0, Cost=258.03, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,Banners,DataTransfer,Logging,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,CGI,XML,UserAuthentication,HTTPS,
+
+187) Correctness=0.0, MissingFeature=14.0, NotUsedBefore=13.0, Defects=142.0, Cost=256.95, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,Images,Banners,DataTransfer,Logging,Security,Active,Text,NTTP,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,CGI,XML,UserAuthentication,HTTPS,
+
+188) Correctness=0.0, MissingFeature=14.0, NotUsedBefore=13.0, Defects=143.0, Cost=254.45999999999998, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,ASP,Images,Banners,DataTransfer,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,CGI,XML,UserAuthentication,HTTPS,
+
+189) Correctness=0.0, MissingFeature=14.0, NotUsedBefore=13.0, Defects=147.0, Cost=253.81999999999996, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Images,Banners,DataTransfer,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,Performance,XML,UserAuthentication,Min,HTTPS,
+
+190) Correctness=0.0, MissingFeature=14.0, NotUsedBefore=14.0, Defects=139.0, Cost=265.1, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Database,ASP,DB,Banners,Logging,Security,Active,Text,NTTP,AdServer,Reports,Flash,PHP,JSP,HTML,Dynamic,Image,CGI,UserAuthentication,HTTPS,
+
+191) Correctness=0.0, MissingFeature=14.0, NotUsedBefore=14.0, Defects=140.0, Cost=254.98, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,ASP,Banners,Logging,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,CGI,XML,UserAuthentication,HTTPS,
+
+192) Correctness=0.0, MissingFeature=14.0, NotUsedBefore=14.0, Defects=141.0, Cost=253.12999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,Images,Banners,Logging,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,CGI,XML,UserAuthentication,HTTPS,
+
+193) Correctness=0.0, MissingFeature=14.0, NotUsedBefore=14.0, Defects=143.0, Cost=252.20999999999998, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,Images,Banners,DataTransfer,Logging,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,XML,UserAuthentication,HTTPS,
+
+194) Correctness=0.0, MissingFeature=14.0, NotUsedBefore=14.0, Defects=146.0, Cost=250.76999999999995, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,ASP,Images,Banners,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,Performance,XML,UserAuthentication,Min,HTTPS,
+
+195) Correctness=0.0, MissingFeature=14.0, NotUsedBefore=15.0, Defects=139.0, Cost=257.77, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,ASP,Banners,Logging,Security,Active,Text,NTTP,AdServer,Reports,Flash,PHP,JSP,HTML,Dynamic,Image,CGI,XML,UserAuthentication,HTTPS,
+
+196) Correctness=0.0, MissingFeature=14.0, NotUsedBefore=15.0, Defects=140.0, Cost=251.56999999999996, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,ASP,Images,Banners,Logging,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,CGI,XML,UserAuthentication,HTTPS,
+
+197) Correctness=0.0, MissingFeature=14.0, NotUsedBefore=15.0, Defects=142.0, Cost=249.15999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,ASP,Images,Banners,Logging,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,XML,UserAuthentication,HTTPS,
+
+198) Correctness=0.0, MissingFeature=15.0, NotUsedBefore=9.0, Defects=144.0, Cost=260.28, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Banners,Sec,DataTransfer,Security,Active,Text,AdServer,Reports,KeywordSupport,JSP,HTML,Dynamic,Image,Pop-ups,CGI,Performance,XML,UserAuthentication,HTTPS,
+
+199) Correctness=0.0, MissingFeature=15.0, NotUsedBefore=10.0, Defects=138.0, Cost=262.77, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Database,DB,Banners,Sec,Logging,Security,Active,Text,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,CGI,Performance,UserAuthentication,HTTPS,
+
+200) Correctness=0.0, MissingFeature=15.0, NotUsedBefore=10.0, Defects=139.0, Cost=254.65999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Banners,Sec,DataTransfer,Security,Active,Text,NTTP,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,CGI,Performance,XML,UserAuthentication,HTTPS,
+
+201) Correctness=0.0, MissingFeature=15.0, NotUsedBefore=10.0, Defects=144.0, Cost=254.2, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Banners,Sec,DataTransfer,Security,Active,Text,NTTP,AdServer,Reports,KeywordSupport,JSP,HTML,Dynamic,Image,Pop-ups,Performance,XML,UserAuthentication,HTTPS,
+
+202) Correctness=0.0, MissingFeature=15.0, NotUsedBefore=11.0, Defects=136.0, Cost=256.38, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Database,DB,Banners,DataTransfer,Logging,Security,Active,Text,NTTP,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,CGI,UserAuthentication,HTTPS,
+
+203) Correctness=0.0, MissingFeature=15.0, NotUsedBefore=11.0, Defects=138.0, Cost=250.83999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Banners,Sec,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,CGI,Performance,XML,UserAuthentication,HTTPS,
+
+204) Correctness=0.0, MissingFeature=15.0, NotUsedBefore=11.0, Defects=139.0, Cost=249.75999999999993, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Images,Banners,Sec,Security,Active,Text,NTTP,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,CGI,Performance,XML,UserAuthentication,HTTPS,
+
+205) Correctness=0.0, MissingFeature=15.0, NotUsedBefore=11.0, Defects=141.0, Cost=248.83999999999995, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Images,Banners,Sec,DataTransfer,Security,Active,Text,NTTP,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,Performance,XML,UserAuthentication,HTTPS,
+
+206) Correctness=0.0, MissingFeature=15.0, NotUsedBefore=12.0, Defects=135.0, Cost=252.56, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Database,DB,Banners,Logging,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,CGI,UserAuthentication,HTTPS,
+
+207) Correctness=0.0, MissingFeature=15.0, NotUsedBefore=12.0, Defects=136.0, Cost=249.05, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,Banners,DataTransfer,Logging,Security,Active,Text,NTTP,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,CGI,XML,UserAuthentication,HTTPS,
+
+208) Correctness=0.0, MissingFeature=15.0, NotUsedBefore=12.0, Defects=137.0, Cost=246.56, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,ASP,Banners,DataTransfer,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,CGI,XML,UserAuthentication,HTTPS,
+
+209) Correctness=0.0, MissingFeature=15.0, NotUsedBefore=12.0, Defects=138.0, Cost=244.70999999999998, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Images,Banners,DataTransfer,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,CGI,XML,UserAuthentication,HTTPS,
+
+210) Correctness=0.0, MissingFeature=15.0, NotUsedBefore=12.0, Defects=143.0, Cost=244.24999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Images,Banners,DataTransfer,Security,Active,Text,NTTP,AdServer,Reports,Flash,KeywordSupport,JSP,HTML,Dynamic,Image,Pop-ups,XML,UserAuthentication,HTTPS,
+
+211) Correctness=0.0, MissingFeature=15.0, NotUsedBefore=13.0, Defects=134.0, Cost=251.0, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Database,ASP,DB,Banners,Logging,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,CGI,UserAuthentication,HTTPS,
+
+212) Correctness=0.0, MissingFeature=15.0, NotUsedBefore=13.0, Defects=135.0, Cost=245.23, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,Banners,Logging,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,CGI,XML,UserAuthentication,HTTPS,
+
+213) Correctness=0.0, MissingFeature=15.0, NotUsedBefore=13.0, Defects=136.0, Cost=244.14999999999998, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,Images,Banners,Logging,Security,Active,Text,NTTP,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,CGI,XML,UserAuthentication,HTTPS,
+
+214) Correctness=0.0, MissingFeature=15.0, NotUsedBefore=13.0, Defects=137.0, Cost=241.65999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,ASP,Images,Banners,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,CGI,XML,UserAuthentication,HTTPS,
+
+215) Correctness=0.0, MissingFeature=15.0, NotUsedBefore=13.0, Defects=139.0, Cost=240.73999999999998, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,ASP,Images,Banners,DataTransfer,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,XML,UserAuthentication,HTTPS,
+
+216) Correctness=0.0, MissingFeature=15.0, NotUsedBefore=14.0, Defects=134.0, Cost=243.67, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,ASP,Banners,Logging,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,CGI,XML,UserAuthentication,HTTPS,
+
+217) Correctness=0.0, MissingFeature=15.0, NotUsedBefore=14.0, Defects=135.0, Cost=241.81999999999996, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,Images,Banners,Logging,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,CGI,XML,UserAuthentication,HTTPS,
+
+218) Correctness=0.0, MissingFeature=15.0, NotUsedBefore=14.0, Defects=136.0, Cost=241.26, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,ASP,Banners,Logging,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,XML,UserAuthentication,HTTPS,
+
+219) Correctness=0.0, MissingFeature=15.0, NotUsedBefore=14.0, Defects=137.0, Cost=239.40999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,Images,Banners,Logging,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,XML,UserAuthentication,HTTPS,
+
+220) Correctness=0.0, MissingFeature=15.0, NotUsedBefore=15.0, Defects=136.0, Cost=237.84999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,ASP,Images,Banners,Logging,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,XML,UserAuthentication,HTTPS,
+
+221) Correctness=0.0, MissingFeature=16.0, NotUsedBefore=9.0, Defects=135.0, Cost=247.01999999999998, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Banners,Sec,DataTransfer,Security,Active,Text,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,CGI,Performance,XML,UserAuthentication,HTTPS,
+
+222) Correctness=0.0, MissingFeature=16.0, NotUsedBefore=9.0, Defects=140.0, Cost=246.55999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Banners,Sec,DataTransfer,Security,Active,Text,AdServer,Reports,KeywordSupport,JSP,HTML,Dynamic,Image,Pop-ups,Performance,XML,UserAuthentication,HTTPS,
+
+223) Correctness=0.0, MissingFeature=16.0, NotUsedBefore=10.0, Defects=132.0, Cost=248.74, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Database,DB,Banners,DataTransfer,Logging,Security,Active,Text,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,CGI,UserAuthentication,HTTPS,
+
+224) Correctness=0.0, MissingFeature=16.0, NotUsedBefore=10.0, Defects=133.0, Cost=241.85999999999996, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Banners,Sec,Security,Active,Text,NTTP,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,CGI,Performance,XML,UserAuthentication,HTTPS,
+
+225) Correctness=0.0, MissingFeature=16.0, NotUsedBefore=10.0, Defects=135.0, Cost=240.93999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Banners,Sec,DataTransfer,Security,Active,Text,NTTP,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,Performance,XML,UserAuthentication,HTTPS,
+
+226) Correctness=0.0, MissingFeature=16.0, NotUsedBefore=11.0, Defects=130.0, Cost=243.58, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Database,DB,Banners,Logging,Security,Active,Text,NTTP,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,CGI,UserAuthentication,HTTPS,
+
+227) Correctness=0.0, MissingFeature=16.0, NotUsedBefore=11.0, Defects=132.0, Cost=236.81, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Banners,DataTransfer,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,CGI,XML,UserAuthentication,HTTPS,
+
+228) Correctness=0.0, MissingFeature=16.0, NotUsedBefore=11.0, Defects=133.0, Cost=235.72999999999996, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Images,Banners,DataTransfer,Security,Active,Text,NTTP,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,CGI,XML,UserAuthentication,HTTPS,
+
+229) Correctness=0.0, MissingFeature=16.0, NotUsedBefore=11.0, Defects=138.0, Cost=235.26999999999998, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Images,Banners,DataTransfer,Security,Active,Text,NTTP,AdServer,Reports,KeywordSupport,JSP,HTML,Dynamic,Image,Pop-ups,XML,UserAuthentication,HTTPS,
+
+230) Correctness=0.0, MissingFeature=16.0, NotUsedBefore=12.0, Defects=129.0, Cost=241.25, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Database,DB,Banners,Logging,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,CGI,UserAuthentication,HTTPS,
+
+231) Correctness=0.0, MissingFeature=16.0, NotUsedBefore=12.0, Defects=130.0, Cost=236.25, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,Banners,Logging,Security,Active,Text,NTTP,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,CGI,XML,UserAuthentication,HTTPS,
+
+232) Correctness=0.0, MissingFeature=16.0, NotUsedBefore=12.0, Defects=131.0, Cost=233.76, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,ASP,Banners,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,CGI,XML,UserAuthentication,HTTPS,
+
+233) Correctness=0.0, MissingFeature=16.0, NotUsedBefore=12.0, Defects=132.0, Cost=231.90999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Images,Banners,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,CGI,XML,UserAuthentication,HTTPS,
+
+234) Correctness=0.0, MissingFeature=16.0, NotUsedBefore=12.0, Defects=134.0, Cost=230.98999999999998, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Images,Banners,DataTransfer,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,XML,UserAuthentication,HTTPS,
+
+235) Correctness=0.0, MissingFeature=16.0, NotUsedBefore=13.0, Defects=129.0, Cost=233.92, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,Banners,Logging,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,CGI,XML,UserAuthentication,HTTPS,
+
+236) Correctness=0.0, MissingFeature=16.0, NotUsedBefore=13.0, Defects=130.0, Cost=232.83999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,Images,Banners,Logging,Security,Active,Text,NTTP,AdServer,Reports,JSP,HTML,Dynamic,Image,CGI,XML,UserAuthentication,HTTPS,
+
+237) Correctness=0.0, MissingFeature=16.0, NotUsedBefore=13.0, Defects=131.0, Cost=230.34999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,ASP,Images,Banners,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,CGI,XML,UserAuthentication,HTTPS,
+
+238) Correctness=0.0, MissingFeature=16.0, NotUsedBefore=13.0, Defects=133.0, Cost=227.93999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,ASP,Images,Banners,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,XML,UserAuthentication,HTTPS,
+
+239) Correctness=0.0, MissingFeature=16.0, NotUsedBefore=14.0, Defects=130.0, Cost=229.95, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,ASP,Banners,Logging,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,XML,UserAuthentication,HTTPS,
+
+240) Correctness=0.0, MissingFeature=16.0, NotUsedBefore=14.0, Defects=131.0, Cost=228.09999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,Images,Banners,Logging,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,XML,UserAuthentication,HTTPS,
+
+241) Correctness=0.0, MissingFeature=17.0, NotUsedBefore=8.0, Defects=134.0, Cost=247.73, 
+SiteSearch,Protocols,FTP,AdditionalServices,Banners,Sec,DataTransfer,Security,Active,Text,AdServer,Reports,KeywordSupport,JSP,HTML,Dynamic,Image,Pop-ups,CGI,Performance,UserAuthentication,HTTPS,
+
+242) Correctness=0.0, MissingFeature=17.0, NotUsedBefore=9.0, Defects=129.0, Cost=234.21999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Banners,Sec,Security,Active,Text,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,CGI,Performance,XML,UserAuthentication,HTTPS,
+
+243) Correctness=0.0, MissingFeature=17.0, NotUsedBefore=9.0, Defects=131.0, Cost=233.29999999999998, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Banners,Sec,DataTransfer,Security,Active,Text,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,Performance,XML,UserAuthentication,HTTPS,
+
+244) Correctness=0.0, MissingFeature=17.0, NotUsedBefore=10.0, Defects=126.0, Cost=235.94, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Database,DB,Banners,Logging,Security,Active,Text,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,CGI,UserAuthentication,HTTPS,
+
+245) Correctness=0.0, MissingFeature=17.0, NotUsedBefore=10.0, Defects=127.0, Cost=227.82999999999998, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Banners,DataTransfer,Security,Active,Text,NTTP,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,CGI,XML,UserAuthentication,HTTPS,
+
+246) Correctness=0.0, MissingFeature=17.0, NotUsedBefore=10.0, Defects=132.0, Cost=227.37, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Banners,DataTransfer,Security,Active,Text,NTTP,AdServer,Reports,KeywordSupport,JSP,HTML,Dynamic,Image,Pop-ups,XML,UserAuthentication,HTTPS,
+
+247) Correctness=0.0, MissingFeature=17.0, NotUsedBefore=11.0, Defects=124.0, Cost=232.27, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Database,DB,Banners,Logging,Security,Active,Text,NTTP,AdServer,Reports,JSP,HTML,Dynamic,Image,CGI,UserAuthentication,HTTPS,
+
+248) Correctness=0.0, MissingFeature=17.0, NotUsedBefore=11.0, Defects=126.0, Cost=224.01, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Banners,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,CGI,XML,UserAuthentication,HTTPS,
+
+249) Correctness=0.0, MissingFeature=17.0, NotUsedBefore=11.0, Defects=127.0, Cost=222.92999999999995, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Images,Banners,Security,Active,Text,NTTP,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,CGI,XML,UserAuthentication,HTTPS,
+
+250) Correctness=0.0, MissingFeature=17.0, NotUsedBefore=11.0, Defects=129.0, Cost=222.00999999999996, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Images,Banners,DataTransfer,Security,Active,Text,NTTP,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,XML,UserAuthentication,HTTPS,
+
+251) Correctness=0.0, MissingFeature=17.0, NotUsedBefore=12.0, Defects=124.0, Cost=224.94, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,Banners,Logging,Security,Active,Text,NTTP,AdServer,Reports,JSP,HTML,Dynamic,Image,CGI,XML,UserAuthentication,HTTPS,
+
+252) Correctness=0.0, MissingFeature=17.0, NotUsedBefore=12.0, Defects=125.0, Cost=222.44999999999996, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,ASP,Banners,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,CGI,XML,UserAuthentication,HTTPS,
+
+253) Correctness=0.0, MissingFeature=17.0, NotUsedBefore=12.0, Defects=126.0, Cost=220.59999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Images,Banners,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,CGI,XML,UserAuthentication,HTTPS,
+
+254) Correctness=0.0, MissingFeature=17.0, NotUsedBefore=12.0, Defects=127.0, Cost=220.04, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,ASP,Banners,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,XML,UserAuthentication,HTTPS,
+
+255) Correctness=0.0, MissingFeature=17.0, NotUsedBefore=12.0, Defects=128.0, Cost=218.18999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Images,Banners,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,XML,UserAuthentication,HTTPS,
+
+256) Correctness=0.0, MissingFeature=17.0, NotUsedBefore=13.0, Defects=125.0, Cost=220.2, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,Banners,Logging,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,XML,UserAuthentication,HTTPS,
+
+257) Correctness=0.0, MissingFeature=17.0, NotUsedBefore=13.0, Defects=126.0, Cost=219.11999999999998, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,Images,Banners,Logging,Security,Active,Text,NTTP,AdServer,Reports,JSP,HTML,Dynamic,Image,XML,UserAuthentication,HTTPS,
+
+258) Correctness=0.0, MissingFeature=17.0, NotUsedBefore=13.0, Defects=127.0, Cost=216.62999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,ASP,Images,Banners,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,XML,UserAuthentication,HTTPS,
+
+259) Correctness=0.0, MissingFeature=18.0, NotUsedBefore=8.0, Defects=125.0, Cost=234.47, 
+SiteSearch,Protocols,FTP,AdditionalServices,Banners,Sec,DataTransfer,Security,Active,Text,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,CGI,Performance,UserAuthentication,HTTPS,
+
+260) Correctness=0.0, MissingFeature=18.0, NotUsedBefore=8.0, Defects=130.0, Cost=234.01, 
+SiteSearch,Protocols,FTP,AdditionalServices,Banners,Sec,DataTransfer,Security,Active,Text,AdServer,Reports,KeywordSupport,JSP,HTML,Dynamic,Image,Pop-ups,Performance,UserAuthentication,HTTPS,
+
+261) Correctness=0.0, MissingFeature=18.0, NotUsedBefore=9.0, Defects=122.0, Cost=231.07999999999998, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Database,DB,Sec,DataTransfer,Logging,Security,Text,Active,NTTP,JSP,HTML,Dynamic,CGI,Performance,UserAuthentication,HTTPS,
+
+262) Correctness=0.0, MissingFeature=18.0, NotUsedBefore=9.0, Defects=123.0, Cost=220.19, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Banners,DataTransfer,Security,Active,Text,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,CGI,XML,UserAuthentication,HTTPS,
+
+263) Correctness=0.0, MissingFeature=18.0, NotUsedBefore=9.0, Defects=128.0, Cost=219.73, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Banners,DataTransfer,Security,Active,Text,AdServer,Reports,KeywordSupport,JSP,HTML,Dynamic,Image,Pop-ups,XML,UserAuthentication,HTTPS,
+
+264) Correctness=0.0, MissingFeature=18.0, NotUsedBefore=10.0, Defects=120.0, Cost=224.63, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Database,DB,Banners,Logging,Security,Active,Text,AdServer,Reports,JSP,HTML,Dynamic,Image,CGI,UserAuthentication,HTTPS,
+
+265) Correctness=0.0, MissingFeature=18.0, NotUsedBefore=10.0, Defects=121.0, Cost=215.02999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Banners,Security,Active,Text,NTTP,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,CGI,XML,UserAuthentication,HTTPS,
+
+266) Correctness=0.0, MissingFeature=18.0, NotUsedBefore=10.0, Defects=123.0, Cost=214.10999999999999, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Banners,DataTransfer,Security,Active,Text,NTTP,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,XML,UserAuthentication,HTTPS,
+
+267) Correctness=0.0, MissingFeature=18.0, NotUsedBefore=11.0, Defects=119.0, Cost=223.73000000000002, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Database,DB,Banners,Logging,Security,Active,Text,NTTP,AdServer,Reports,HTML,Dynamic,Image,CGI,UserAuthentication,HTTPS,
+
+268) Correctness=0.0, MissingFeature=18.0, NotUsedBefore=11.0, Defects=120.0, Cost=212.7, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Banners,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,CGI,XML,UserAuthentication,HTTPS,
+
+269) Correctness=0.0, MissingFeature=18.0, NotUsedBefore=11.0, Defects=121.0, Cost=211.61999999999995, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Images,Banners,Security,Active,Text,NTTP,AdServer,Reports,JSP,HTML,Dynamic,Image,CGI,XML,UserAuthentication,HTTPS,
+
+270) Correctness=0.0, MissingFeature=18.0, NotUsedBefore=11.0, Defects=122.0, Cost=210.29, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Banners,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,Pop-ups,XML,UserAuthentication,HTTPS,
+
+271) Correctness=0.0, MissingFeature=18.0, NotUsedBefore=11.0, Defects=123.0, Cost=209.20999999999995, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Images,Banners,Security,Active,Text,NTTP,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,XML,UserAuthentication,HTTPS,
+
+272) Correctness=0.0, MissingFeature=18.0, NotUsedBefore=12.0, Defects=119.0, Cost=216.4, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,Banners,Logging,Security,Active,Text,NTTP,AdServer,Reports,HTML,Dynamic,Image,CGI,XML,UserAuthentication,HTTPS,
+
+273) Correctness=0.0, MissingFeature=18.0, NotUsedBefore=12.0, Defects=120.0, Cost=211.22, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,Banners,Logging,Security,Active,Text,NTTP,AdServer,Reports,JSP,HTML,Dynamic,Image,XML,UserAuthentication,HTTPS,
+
+274) Correctness=0.0, MissingFeature=18.0, NotUsedBefore=12.0, Defects=121.0, Cost=208.72999999999996, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,ASP,Banners,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,XML,UserAuthentication,HTTPS,
+
+275) Correctness=0.0, MissingFeature=18.0, NotUsedBefore=12.0, Defects=122.0, Cost=206.87999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Images,Banners,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,XML,UserAuthentication,HTTPS,
+
+276) Correctness=0.0, MissingFeature=19.0, NotUsedBefore=8.0, Defects=118.0, Cost=223.43999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Database,DB,Sec,DataTransfer,Logging,Security,Text,Active,HTML,JSP,Dynamic,CGI,Performance,UserAuthentication,HTTPS,
+
+277) Correctness=0.0, MissingFeature=19.0, NotUsedBefore=8.0, Defects=119.0, Cost=221.67, 
+SiteSearch,Protocols,FTP,AdditionalServices,Banners,Sec,Security,Active,Text,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,CGI,Performance,UserAuthentication,HTTPS,
+
+278) Correctness=0.0, MissingFeature=19.0, NotUsedBefore=8.0, Defects=121.0, Cost=216.85999999999999, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Banners,Sec,DataTransfer,Security,Active,AdServer,Reports,JSP,Image,Pop-ups,CGI,Performance,XML,UserAuthentication,HTTPS,
+
+279) Correctness=0.0, MissingFeature=19.0, NotUsedBefore=9.0, Defects=116.0, Cost=218.27999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Database,DB,Sec,Logging,Security,Text,Active,NTTP,JSP,HTML,Dynamic,CGI,Performance,UserAuthentication,HTTPS,
+
+280) Correctness=0.0, MissingFeature=19.0, NotUsedBefore=9.0, Defects=117.0, Cost=207.39, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Banners,Security,Active,Text,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,CGI,XML,UserAuthentication,HTTPS,
+
+281) Correctness=0.0, MissingFeature=19.0, NotUsedBefore=9.0, Defects=119.0, Cost=206.47, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Banners,DataTransfer,Security,Active,Text,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,XML,UserAuthentication,HTTPS,
+
+282) Correctness=0.0, MissingFeature=19.0, NotUsedBefore=10.0, Defects=115.0, Cost=203.71999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Banners,Security,Active,Text,NTTP,AdServer,Reports,JSP,HTML,Dynamic,Image,CGI,XML,UserAuthentication,HTTPS,
+
+283) Correctness=0.0, MissingFeature=19.0, NotUsedBefore=10.0, Defects=117.0, Cost=201.30999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Banners,Security,Active,Text,NTTP,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,XML,UserAuthentication,HTTPS,
+
+284) Correctness=0.0, MissingFeature=19.0, NotUsedBefore=11.0, Defects=114.0, Cost=212.39000000000001, 
+SiteSearch,Protocols,FTP,AdditionalServices,File,Banners,Logging,Security,Active,Text,NTTP,AdServer,Reports,JSP,HTML,Dynamic,Image,CGI,UserAuthentication,HTTPS,
+
+285) Correctness=0.0, MissingFeature=19.0, NotUsedBefore=11.0, Defects=116.0, Cost=198.98, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Banners,Security,Active,Text,NTTP,AdServer,Reports,Flash,JSP,HTML,Dynamic,Image,XML,UserAuthentication,HTTPS,
+
+286) Correctness=0.0, MissingFeature=19.0, NotUsedBefore=11.0, Defects=117.0, Cost=197.89999999999995, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Images,Banners,Security,Active,Text,NTTP,AdServer,Reports,JSP,HTML,Dynamic,Image,XML,UserAuthentication,HTTPS,
+
+287) Correctness=0.0, MissingFeature=19.0, NotUsedBefore=12.0, Defects=114.0, Cost=207.96999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,ASP,Logging,Security,Text,Active,NTTP,PHP,JSP,HTML,Dynamic,CGI,XML,UserAuthentication,HTTPS,
+
+288) Correctness=0.0, MissingFeature=19.0, NotUsedBefore=12.0, Defects=115.0, Cost=201.76999999999998, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,ASP,Images,Logging,Security,Active,Text,NTTP,JSP,HTML,Dynamic,CGI,XML,UserAuthentication,HTTPS,
+
+289) Correctness=0.0, MissingFeature=19.0, NotUsedBefore=12.0, Defects=119.0, Cost=197.77999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,ASP,Images,Banners,Security,Active,NTTP,AdServer,Reports,Flash,JSP,Image,Pop-ups,XML,UserAuthentication,HTTPS,
+
+290) Correctness=0.0, MissingFeature=19.0, NotUsedBefore=13.0, Defects=114.0, Cost=207.12999999999997, 
+Protocols,Persistence,FTP,AdditionalServices,File,ASP,Banners,Logging,Security,Active,NTTP,AdServer,Reports,Flash,JSP,Image,CGI,XML,UserAuthentication,HTTPS,
+
+291) Correctness=0.0, MissingFeature=20.0, NotUsedBefore=8.0, Defects=112.0, Cost=210.63999999999996, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Database,DB,Sec,Logging,Security,Text,Active,HTML,JSP,Dynamic,CGI,Performance,UserAuthentication,HTTPS,
+
+292) Correctness=0.0, MissingFeature=20.0, NotUsedBefore=8.0, Defects=113.0, Cost=202.52999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Sec,DataTransfer,Security,Text,Active,NTTP,HTML,JSP,Dynamic,CGI,Performance,XML,UserAuthentication,HTTPS,
+
+293) Correctness=0.0, MissingFeature=20.0, NotUsedBefore=9.0, Defects=110.0, Cost=204.25, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Database,DB,DataTransfer,Logging,Security,Text,Active,NTTP,JSP,HTML,Dynamic,CGI,UserAuthentication,HTTPS,
+
+294) Correctness=0.0, MissingFeature=20.0, NotUsedBefore=9.0, Defects=111.0, Cost=196.07999999999998, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Banners,Security,Active,Text,AdServer,Reports,JSP,HTML,Dynamic,Image,CGI,XML,UserAuthentication,HTTPS,
+
+295) Correctness=0.0, MissingFeature=20.0, NotUsedBefore=9.0, Defects=113.0, Cost=193.67, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Banners,Security,Active,Text,AdServer,Reports,JSP,HTML,Dynamic,Image,Pop-ups,XML,UserAuthentication,HTTPS,
+
+296) Correctness=0.0, MissingFeature=20.0, NotUsedBefore=10.0, Defects=109.0, Cost=201.2, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Database,ASP,DB,Logging,Security,Text,Active,NTTP,JSP,HTML,Dynamic,CGI,UserAuthentication,HTTPS,
+
+297) Correctness=0.0, MissingFeature=20.0, NotUsedBefore=10.0, Defects=110.0, Cost=195.17999999999998, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Banners,Security,Active,Text,NTTP,AdServer,Reports,HTML,Dynamic,Image,CGI,XML,UserAuthentication,HTTPS,
+
+298) Correctness=0.0, MissingFeature=20.0, NotUsedBefore=10.0, Defects=111.0, Cost=189.99999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Banners,Security,Active,Text,NTTP,AdServer,Reports,JSP,HTML,Dynamic,Image,XML,UserAuthentication,HTTPS,
+
+299) Correctness=0.0, MissingFeature=20.0, NotUsedBefore=11.0, Defects=109.0, Cost=193.86999999999998, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,ASP,Logging,Security,Text,Active,NTTP,JSP,HTML,Dynamic,CGI,XML,UserAuthentication,HTTPS,
+
+300) Correctness=0.0, MissingFeature=20.0, NotUsedBefore=11.0, Defects=110.0, Cost=192.01999999999998, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,Images,Logging,Security,Active,Text,NTTP,JSP,HTML,Dynamic,CGI,XML,UserAuthentication,HTTPS,
+
+301) Correctness=0.0, MissingFeature=20.0, NotUsedBefore=11.0, Defects=113.0, Cost=189.88, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,ASP,Banners,Security,Active,NTTP,AdServer,Reports,Flash,JSP,Image,Pop-ups,XML,UserAuthentication,HTTPS,
+
+302) Correctness=0.0, MissingFeature=20.0, NotUsedBefore=11.0, Defects=114.0, Cost=188.02999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Images,Banners,Security,Active,NTTP,AdServer,Reports,Flash,JSP,Image,Pop-ups,XML,UserAuthentication,HTTPS,
+
+303) Correctness=0.0, MissingFeature=20.0, NotUsedBefore=12.0, Defects=111.0, Cost=188.04999999999998, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,ASP,Images,Logging,Security,Active,Text,NTTP,JSP,HTML,Dynamic,XML,UserAuthentication,HTTPS,
+
+304) Correctness=0.0, MissingFeature=20.0, NotUsedBefore=12.0, Defects=113.0, Cost=186.46999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,ASP,Images,Banners,Security,Active,NTTP,AdServer,Reports,Flash,JSP,Image,XML,UserAuthentication,HTTPS,
+
+305) Correctness=0.0, MissingFeature=21.0, NotUsedBefore=7.0, Defects=109.0, Cost=194.89, 
+SiteSearch,Protocols,FTP,Persistence,AdditionalServices,Sec,DataTransfer,Security,Text,Active,HTML,JSP,Dynamic,CGI,Performance,XML,UserAuthentication,HTTPS,
+
+306) Correctness=0.0, MissingFeature=21.0, NotUsedBefore=8.0, Defects=106.0, Cost=196.60999999999999, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Database,DB,DataTransfer,Logging,Security,Text,Active,HTML,JSP,Dynamic,CGI,UserAuthentication,HTTPS,
+
+307) Correctness=0.0, MissingFeature=21.0, NotUsedBefore=8.0, Defects=107.0, Cost=189.72999999999996, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Sec,Security,Text,Active,NTTP,HTML,JSP,Dynamic,CGI,Performance,XML,UserAuthentication,HTTPS,
+
+308) Correctness=0.0, MissingFeature=21.0, NotUsedBefore=8.0, Defects=109.0, Cost=188.80999999999997, 
+SiteSearch,Protocols,FTP,Persistence,AdditionalServices,Sec,DataTransfer,Security,Text,Active,NTTP,HTML,JSP,Dynamic,Performance,XML,UserAuthentication,HTTPS,
+
+309) Correctness=0.0, MissingFeature=21.0, NotUsedBefore=9.0, Defects=104.0, Cost=191.45, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Database,DB,Logging,Security,Text,Active,NTTP,JSP,HTML,Dynamic,CGI,UserAuthentication,HTTPS,
+
+310) Correctness=0.0, MissingFeature=21.0, NotUsedBefore=9.0, Defects=105.0, Cost=191.17, 
+SiteSearch,Protocols,FTP,AdditionalServices,Banners,Security,Active,Text,NTTP,AdServer,Reports,JSP,HTML,Dynamic,Image,CGI,UserAuthentication,HTTPS,
+
+311) Correctness=0.0, MissingFeature=21.0, NotUsedBefore=9.0, Defects=106.0, Cost=185.45, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,ASP,DataTransfer,Security,Text,Active,NTTP,HTML,JSP,Dynamic,CGI,XML,UserAuthentication,HTTPS,
+
+312) Correctness=0.0, MissingFeature=21.0, NotUsedBefore=9.0, Defects=107.0, Cost=182.35999999999999, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Banners,Security,Active,Text,AdServer,Reports,JSP,HTML,Dynamic,Image,XML,UserAuthentication,HTTPS,
+
+313) Correctness=0.0, MissingFeature=21.0, NotUsedBefore=10.0, Defects=104.0, Cost=184.11999999999998, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,Logging,Security,Text,Active,NTTP,JSP,HTML,Dynamic,CGI,XML,UserAuthentication,HTTPS,
+
+314) Correctness=0.0, MissingFeature=21.0, NotUsedBefore=10.0, Defects=106.0, Cost=180.54999999999998, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,ASP,Images,Security,Text,Active,NTTP,JSP,HTML,Dynamic,CGI,XML,UserAuthentication,HTTPS,
+
+315) Correctness=0.0, MissingFeature=21.0, NotUsedBefore=10.0, Defects=108.0, Cost=179.63, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,ASP,Images,DataTransfer,Security,Text,Active,NTTP,JSP,HTML,Dynamic,XML,UserAuthentication,HTTPS,
+
+316) Correctness=0.0, MissingFeature=21.0, NotUsedBefore=10.0, Defects=109.0, Cost=179.04999999999998, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Images,Banners,Security,Active,NTTP,AdServer,Reports,JSP,Image,Pop-ups,XML,UserAuthentication,HTTPS,
+
+317) Correctness=0.0, MissingFeature=21.0, NotUsedBefore=11.0, Defects=105.0, Cost=180.14999999999998, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,ASP,Logging,Security,Text,Active,NTTP,JSP,HTML,Dynamic,XML,UserAuthentication,HTTPS,
+
+318) Correctness=0.0, MissingFeature=21.0, NotUsedBefore=11.0, Defects=106.0, Cost=178.29999999999998, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,Images,Logging,Security,Active,Text,NTTP,JSP,HTML,Dynamic,XML,UserAuthentication,HTTPS,
+
+319) Correctness=0.0, MissingFeature=21.0, NotUsedBefore=11.0, Defects=108.0, Cost=176.71999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Images,Banners,Security,Active,NTTP,AdServer,Reports,Flash,JSP,Image,XML,UserAuthentication,HTTPS,
+
+320) Correctness=0.0, MissingFeature=22.0, NotUsedBefore=7.0, Defects=103.0, Cost=182.08999999999997, 
+SiteSearch,Protocols,FTP,Persistence,AdditionalServices,Sec,Security,Text,Active,HTML,JSP,Dynamic,CGI,Performance,XML,UserAuthentication,HTTPS,
+
+321) Correctness=0.0, MissingFeature=22.0, NotUsedBefore=7.0, Defects=105.0, Cost=181.17, 
+SiteSearch,Protocols,FTP,Persistence,AdditionalServices,Sec,DataTransfer,Security,Text,Active,HTML,JSP,Dynamic,Performance,XML,UserAuthentication,HTTPS,
+
+322) Correctness=0.0, MissingFeature=22.0, NotUsedBefore=8.0, Defects=100.0, Cost=183.80999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Database,DB,Logging,Security,Text,Active,HTML,JSP,Dynamic,CGI,UserAuthentication,HTTPS,
+
+323) Correctness=0.0, MissingFeature=22.0, NotUsedBefore=8.0, Defects=101.0, Cost=175.7, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,DataTransfer,Security,Text,Active,NTTP,HTML,JSP,Dynamic,CGI,XML,UserAuthentication,HTTPS,
+
+324) Correctness=0.0, MissingFeature=22.0, NotUsedBefore=9.0, Defects=99.0, Cost=182.90999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Database,DB,Logging,Security,Text,Active,NTTP,HTML,Dynamic,CGI,UserAuthentication,HTTPS,
+
+325) Correctness=0.0, MissingFeature=22.0, NotUsedBefore=9.0, Defects=100.0, Cost=172.64999999999998, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,ASP,Security,Text,Active,NTTP,HTML,JSP,Dynamic,CGI,XML,UserAuthentication,HTTPS,
+
+326) Correctness=0.0, MissingFeature=22.0, NotUsedBefore=9.0, Defects=101.0, Cost=170.79999999999998, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Images,Security,Text,Active,NTTP,HTML,JSP,Dynamic,CGI,XML,UserAuthentication,HTTPS,
+
+327) Correctness=0.0, MissingFeature=22.0, NotUsedBefore=9.0, Defects=103.0, Cost=169.88, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Images,DataTransfer,Security,Text,Active,NTTP,HTML,JSP,Dynamic,XML,UserAuthentication,HTTPS,
+
+328) Correctness=0.0, MissingFeature=22.0, NotUsedBefore=10.0, Defects=99.0, Cost=175.57999999999998, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,Logging,Security,Text,Active,NTTP,HTML,Dynamic,CGI,XML,UserAuthentication,HTTPS,
+
+329) Correctness=0.0, MissingFeature=22.0, NotUsedBefore=10.0, Defects=100.0, Cost=170.39999999999998, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,Logging,Security,Text,Active,NTTP,JSP,HTML,Dynamic,XML,UserAuthentication,HTTPS,
+
+330) Correctness=0.0, MissingFeature=22.0, NotUsedBefore=10.0, Defects=102.0, Cost=166.82999999999998, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,ASP,Images,Security,Text,Active,NTTP,JSP,HTML,Dynamic,XML,UserAuthentication,HTTPS,
+
+331) Correctness=0.0, MissingFeature=23.0, NotUsedBefore=6.0, Defects=99.0, Cost=182.34, 
+SiteSearch,Protocols,FTP,AdditionalServices,Sec,DataTransfer,Text,Active,Security,HTML,JSP,Dynamic,CGI,Performance,UserAuthentication,HTTPS,
+
+332) Correctness=0.0, MissingFeature=23.0, NotUsedBefore=7.0, Defects=97.0, Cost=168.06, 
+SiteSearch,Protocols,FTP,Persistence,AdditionalServices,DataTransfer,Security,Text,Active,HTML,JSP,Dynamic,CGI,XML,UserAuthentication,HTTPS,
+
+333) Correctness=0.0, MissingFeature=23.0, NotUsedBefore=8.0, Defects=95.0, Cost=162.89999999999998, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Security,Text,Active,NTTP,HTML,JSP,Dynamic,CGI,XML,UserAuthentication,HTTPS,
+
+334) Correctness=0.0, MissingFeature=23.0, NotUsedBefore=8.0, Defects=97.0, Cost=161.97999999999996, 
+SiteSearch,Protocols,FTP,Persistence,AdditionalServices,DataTransfer,Security,Text,Active,NTTP,HTML,JSP,Dynamic,XML,UserAuthentication,HTTPS,
+
+335) Correctness=0.0, MissingFeature=23.0, NotUsedBefore=9.0, Defects=94.0, Cost=171.57, 
+SiteSearch,Protocols,FTP,AdditionalServices,File,Logging,Security,Text,Active,NTTP,JSP,HTML,Dynamic,CGI,UserAuthentication,HTTPS,
+
+336) Correctness=0.0, MissingFeature=23.0, NotUsedBefore=9.0, Defects=96.0, Cost=158.92999999999998, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,ASP,Security,Text,Active,NTTP,HTML,JSP,Dynamic,XML,UserAuthentication,HTTPS,
+
+337) Correctness=0.0, MissingFeature=23.0, NotUsedBefore=9.0, Defects=97.0, Cost=157.07999999999998, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Images,Security,Text,Active,NTTP,HTML,JSP,Dynamic,XML,UserAuthentication,HTTPS,
+
+338) Correctness=0.0, MissingFeature=23.0, NotUsedBefore=10.0, Defects=94.0, Cost=170.52999999999997, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,File,Logging,Text,Active,NTTP,JSP,HTML,Dynamic,CGI,XML,HTTPS,
+
+339) Correctness=0.0, MissingFeature=23.0, NotUsedBefore=11.0, Defects=94.0, Cost=169.67999999999998, 
+Protocols,Persistence,FTP,AdditionalServices,File,Banners,Logging,Security,NTTP,AdServer,Reports,Flash,Image,XML,UserAuthentication,HTTPS,
+
+340) Correctness=0.0, MissingFeature=24.0, NotUsedBefore=6.0, Defects=93.0, Cost=169.54, 
+SiteSearch,Protocols,FTP,AdditionalServices,Sec,Text,Active,Security,HTML,JSP,Dynamic,CGI,Performance,UserAuthentication,HTTPS,
+
+341) Correctness=0.0, MissingFeature=24.0, NotUsedBefore=6.0, Defects=95.0, Cost=164.73000000000002, 
+SiteSearch,Protocols,FTP,Persistence,AdditionalServices,Sec,DataTransfer,Active,Security,JSP,CGI,Performance,XML,UserAuthentication,HTTPS,
+
+342) Correctness=0.0, MissingFeature=24.0, NotUsedBefore=7.0, Defects=91.0, Cost=155.26, 
+SiteSearch,Protocols,FTP,Persistence,AdditionalServices,Security,Text,Active,HTML,JSP,Dynamic,CGI,XML,UserAuthentication,HTTPS,
+
+343) Correctness=0.0, MissingFeature=24.0, NotUsedBefore=7.0, Defects=93.0, Cost=154.33999999999997, 
+SiteSearch,Protocols,FTP,Persistence,AdditionalServices,DataTransfer,Security,Text,Active,HTML,JSP,Dynamic,XML,UserAuthentication,HTTPS,
+
+344) Correctness=0.0, MissingFeature=24.0, NotUsedBefore=8.0, Defects=90.0, Cost=154.35999999999999, 
+SiteSearch,Protocols,FTP,Persistence,AdditionalServices,Security,Text,Active,NTTP,HTML,Dynamic,CGI,XML,UserAuthentication,HTTPS,
+
+345) Correctness=0.0, MissingFeature=24.0, NotUsedBefore=8.0, Defects=91.0, Cost=149.17999999999998, 
+SiteSearch,Protocols,FTP,Persistence,AdditionalServices,Security,Text,Active,NTTP,HTML,JSP,Dynamic,XML,UserAuthentication,HTTPS,
+
+346) Correctness=0.0, MissingFeature=24.0, NotUsedBefore=9.0, Defects=89.0, Cost=163.02999999999997, 
+SiteSearch,Protocols,FTP,AdditionalServices,File,Logging,Security,Text,Active,NTTP,HTML,Dynamic,CGI,UserAuthentication,HTTPS,
+
+347) Correctness=0.0, MissingFeature=24.0, NotUsedBefore=9.0, Defects=90.0, Cost=153.95999999999998, 
+SiteSearch,Protocols,FTP,Persistence,AdditionalServices,File,Logging,Security,Active,NTTP,JSP,CGI,XML,UserAuthentication,HTTPS,
+
+348) Correctness=0.0, MissingFeature=24.0, NotUsedBefore=10.0, Defects=89.0, Cost=157.32999999999998, 
+Protocols,FTP,Persistence,AdditionalServices,File,ASP,Logging,Security,Active,NTTP,JSP,CGI,XML,UserAuthentication,HTTPS,
+
+349) Correctness=0.0, MissingFeature=24.0, NotUsedBefore=10.0, Defects=92.0, Cost=148.14, 
+SiteSearch,Protocols,FTP,Persistence,AdditionalServices,File,Images,Logging,Security,Active,NTTP,JSP,XML,UserAuthentication,HTTPS,
+
+350) Correctness=0.0, MissingFeature=25.0, NotUsedBefore=6.0, Defects=87.0, Cost=155.51, 
+SiteSearch,Protocols,FTP,AdditionalServices,DataTransfer,Text,Active,Security,HTML,JSP,Dynamic,CGI,UserAuthentication,HTTPS,
+
+351) Correctness=0.0, MissingFeature=25.0, NotUsedBefore=6.0, Defects=89.0, Cost=151.93, 
+SiteSearch,Protocols,FTP,Persistence,AdditionalServices,Sec,Active,Security,JSP,CGI,Performance,XML,UserAuthentication,HTTPS,
+
+352) Correctness=0.0, MissingFeature=25.0, NotUsedBefore=6.0, Defects=91.0, Cost=151.01, 
+SiteSearch,Protocols,FTP,Persistence,AdditionalServices,Sec,DataTransfer,Active,Security,JSP,Performance,XML,UserAuthentication,HTTPS,
+
+353) Correctness=0.0, MissingFeature=25.0, NotUsedBefore=7.0, Defects=85.0, Cost=150.35, 
+SiteSearch,Protocols,FTP,AdditionalServices,Security,Text,Active,NTTP,HTML,JSP,Dynamic,CGI,UserAuthentication,HTTPS,
+
+354) Correctness=0.0, MissingFeature=25.0, NotUsedBefore=7.0, Defects=86.0, Cost=146.72, 
+SiteSearch,Protocols,FTP,Persistence,AdditionalServices,Security,Text,Active,HTML,Dynamic,CGI,XML,UserAuthentication,HTTPS,
+
+355) Correctness=0.0, MissingFeature=25.0, NotUsedBefore=7.0, Defects=87.0, Cost=141.54, 
+SiteSearch,Protocols,FTP,Persistence,AdditionalServices,Security,Text,Active,HTML,JSP,Dynamic,XML,UserAuthentication,HTTPS,
+
+356) Correctness=0.0, MissingFeature=25.0, NotUsedBefore=8.0, Defects=84.0, Cost=154.91, 
+Protocols,FTP,Persistence,AdditionalServices,Database,DB,Logging,Security,Active,NTTP,JSP,CGI,UserAuthentication,HTTPS,
+
+357) Correctness=0.0, MissingFeature=25.0, NotUsedBefore=8.0, Defects=85.0, Cost=149.31, 
+SiteSearch,Protocols,Persistence,FTP,AdditionalServices,Text,Active,NTTP,HTML,JSP,Dynamic,CGI,XML,HTTPS,
+
+358) Correctness=0.0, MissingFeature=25.0, NotUsedBefore=8.0, Defects=86.0, Cost=142.48999999999998, 
+SiteSearch,Protocols,FTP,Persistence,AdditionalServices,ASP,Security,Active,NTTP,JSP,CGI,XML,UserAuthentication,HTTPS,
+
+359) Correctness=0.0, MissingFeature=25.0, NotUsedBefore=8.0, Defects=87.0, Cost=140.64, 
+SiteSearch,Protocols,FTP,Persistence,AdditionalServices,Images,Security,Active,NTTP,JSP,CGI,XML,UserAuthentication,HTTPS,
+
+360) Correctness=0.0, MissingFeature=25.0, NotUsedBefore=8.0, Defects=89.0, Cost=139.71999999999997, 
+SiteSearch,Protocols,FTP,Persistence,AdditionalServices,Images,DataTransfer,Active,Security,NTTP,JSP,XML,UserAuthentication,HTTPS,
+
+361) Correctness=0.0, MissingFeature=25.0, NotUsedBefore=9.0, Defects=84.0, Cost=147.57999999999998, 
+Protocols,FTP,Persistence,AdditionalServices,File,Logging,Security,Active,NTTP,JSP,CGI,XML,UserAuthentication,HTTPS,
+
+362) Correctness=0.0, MissingFeature=25.0, NotUsedBefore=9.0, Defects=85.0, Cost=145.42, 
+SiteSearch,Protocols,FTP,Persistence,AdditionalServices,File,Logging,Security,Active,NTTP,CGI,XML,UserAuthentication,HTTPS,
+
+363) Correctness=0.0, MissingFeature=25.0, NotUsedBefore=9.0, Defects=86.0, Cost=140.23999999999998, 
+SiteSearch,Protocols,FTP,Persistence,AdditionalServices,File,Logging,Security,Active,NTTP,JSP,XML,UserAuthentication,HTTPS,
+
+364) Correctness=0.0, MissingFeature=25.0, NotUsedBefore=9.0, Defects=88.0, Cost=136.67, 
+SiteSearch,Protocols,FTP,Persistence,AdditionalServices,ASP,Images,Security,Active,NTTP,JSP,XML,UserAuthentication,HTTPS,
+
+365) Correctness=0.0, MissingFeature=25.0, NotUsedBefore=10.0, Defects=85.0, Cost=143.60999999999999, 
+Protocols,FTP,Persistence,AdditionalServices,File,ASP,Logging,Security,Active,NTTP,JSP,XML,UserAuthentication,HTTPS,
+
+366) Correctness=0.0, MissingFeature=26.0, NotUsedBefore=5.0, Defects=85.0, Cost=152.18, 
+SiteSearch,Protocols,FTP,AdditionalServices,Sec,DataTransfer,Active,Security,JSP,CGI,Performance,UserAuthentication,HTTPS,
+
+367) Correctness=0.0, MissingFeature=26.0, NotUsedBefore=6.0, Defects=81.0, Cost=142.71, 
+SiteSearch,Security,Active,Text,Protocols,FTP,AdditionalServices,JSP,HTML,Dynamic,CGI,UserAuthentication,HTTPS,
+
+368) Correctness=0.0, MissingFeature=26.0, NotUsedBefore=6.0, Defects=83.0, Cost=137.89999999999998, 
+SiteSearch,Security,Active,Protocols,Persistence,FTP,AdditionalServices,JSP,CGI,XML,UserAuthentication,DataTransfer,HTTPS,
+
+369) Correctness=0.0, MissingFeature=26.0, NotUsedBefore=7.0, Defects=80.0, Cost=141.81, 
+SiteSearch,Security,Active,Text,NTTP,Protocols,FTP,AdditionalServices,HTML,Dynamic,CGI,UserAuthentication,HTTPS,
+
+370) Correctness=0.0, MissingFeature=26.0, NotUsedBefore=7.0, Defects=81.0, Cost=132.73999999999998, 
+SiteSearch,Security,Active,NTTP,Protocols,Persistence,FTP,AdditionalServices,JSP,CGI,XML,UserAuthentication,HTTPS,
+
+371) Correctness=0.0, MissingFeature=26.0, NotUsedBefore=7.0, Defects=83.0, Cost=131.82, 
+SiteSearch,Security,Active,NTTP,Protocols,Persistence,FTP,AdditionalServices,JSP,XML,UserAuthentication,DataTransfer,HTTPS,
+
+372) Correctness=0.0, MissingFeature=26.0, NotUsedBefore=8.0, Defects=79.0, Cost=145.29, 
+Logging,Security,Active,NTTP,Protocols,Persistence,FTP,Database,JSP,DB,CGI,UserAuthentication,HTTPS,
+
+373) Correctness=0.0, MissingFeature=26.0, NotUsedBefore=8.0, Defects=80.0, Cost=136.10999999999999, 
+Security,Active,NTTP,Protocols,Persistence,FTP,AdditionalServices,JSP,ASP,CGI,XML,UserAuthentication,HTTPS,
+
+374) Correctness=0.0, MissingFeature=26.0, NotUsedBefore=8.0, Defects=82.0, Cost=128.76999999999998, 
+SiteSearch,Security,Active,NTTP,Protocols,Persistence,FTP,AdditionalServices,JSP,ASP,XML,UserAuthentication,HTTPS,
+
+375) Correctness=0.0, MissingFeature=26.0, NotUsedBefore=8.0, Defects=83.0, Cost=126.91999999999999, 
+SiteSearch,Security,Active,NTTP,Protocols,Persistence,FTP,AdditionalServices,JSP,XML,Images,UserAuthentication,HTTPS,
+
+376) Correctness=0.0, MissingFeature=26.0, NotUsedBefore=9.0, Defects=79.0, Cost=137.95999999999998, 
+Logging,Security,Active,NTTP,Protocols,Persistence,FTP,JSP,File,CGI,XML,UserAuthentication,HTTPS,
+
+377) Correctness=0.0, MissingFeature=26.0, NotUsedBefore=9.0, Defects=80.0, Cost=133.85999999999999, 
+Logging,Security,Active,NTTP,Protocols,Persistence,FTP,AdditionalServices,JSP,File,XML,UserAuthentication,HTTPS,
+
+378) Correctness=0.0, MissingFeature=27.0, NotUsedBefore=5.0, Defects=79.0, Cost=139.38, 
+SiteSearch,Security,Active,Protocols,FTP,AdditionalServices,JSP,CGI,Performance,UserAuthentication,Sec,HTTPS,
+
+379) Correctness=0.0, MissingFeature=27.0, NotUsedBefore=5.0, Defects=80.0, Cost=137.03000000000003, 
+SiteSearch,Security,Protocols,Persistence,FTP,AdditionalServices,Performance,XML,UserAuthentication,Sec,DataTransfer,HTTPS,
+
+380) Correctness=0.0, MissingFeature=27.0, NotUsedBefore=6.0, Defects=76.0, Cost=134.17, 
+SiteSearch,Security,Active,Text,Protocols,FTP,AdditionalServices,HTML,Dynamic,CGI,UserAuthentication,HTTPS,
+
+381) Correctness=0.0, MissingFeature=27.0, NotUsedBefore=6.0, Defects=77.0, Cost=125.1, 
+SiteSearch,Security,Active,Protocols,Persistence,FTP,AdditionalServices,JSP,CGI,XML,UserAuthentication,HTTPS,
+
+382) Correctness=0.0, MissingFeature=27.0, NotUsedBefore=6.0, Defects=79.0, Cost=124.17999999999999, 
+SiteSearch,Security,Active,Protocols,Persistence,FTP,AdditionalServices,JSP,XML,UserAuthentication,DataTransfer,HTTPS,
+
+383) Correctness=0.0, MissingFeature=27.0, NotUsedBefore=7.0, Defects=75.0, Cost=126.35999999999999, 
+Security,Active,NTTP,Protocols,Persistence,FTP,AdditionalServices,JSP,CGI,XML,UserAuthentication,HTTPS,
+
+384) Correctness=0.0, MissingFeature=27.0, NotUsedBefore=7.0, Defects=76.0, Cost=124.19999999999999, 
+SiteSearch,Security,Active,NTTP,Protocols,Persistence,FTP,AdditionalServices,CGI,XML,UserAuthentication,HTTPS,
+
+385) Correctness=0.0, MissingFeature=27.0, NotUsedBefore=7.0, Defects=77.0, Cost=119.01999999999998, 
+SiteSearch,Security,Active,NTTP,Protocols,Persistence,FTP,AdditionalServices,JSP,XML,UserAuthentication,HTTPS,
+
+386) Correctness=0.0, MissingFeature=27.0, NotUsedBefore=8.0, Defects=74.0, Cost=135.03, 
+Logging,Security,Active,NTTP,Protocols,FTP,AdditionalServices,JSP,File,CGI,UserAuthentication,HTTPS,
+
+387) Correctness=0.0, MissingFeature=27.0, NotUsedBefore=8.0, Defects=75.0, Cost=126.25999999999999, 
+Logging,SiteSearch,Security,NTTP,Protocols,Persistence,FTP,AdditionalServices,File,XML,UserAuthentication,HTTPS,
+
+388) Correctness=0.0, MissingFeature=27.0, NotUsedBefore=8.0, Defects=76.0, Cost=122.38999999999999, 
+Security,Active,NTTP,Protocols,Persistence,FTP,AdditionalServices,JSP,ASP,XML,UserAuthentication,HTTPS,
+
+389) Correctness=0.0, MissingFeature=27.0, NotUsedBefore=9.0, Defects=74.0, Cost=129.42, 
+Logging,Security,Active,NTTP,Protocols,Persistence,FTP,File,CGI,XML,UserAuthentication,HTTPS,
+
+390) Correctness=0.0, MissingFeature=27.0, NotUsedBefore=9.0, Defects=75.0, Cost=124.23999999999998, 
+Logging,Security,Active,NTTP,Protocols,Persistence,FTP,JSP,File,XML,UserAuthentication,HTTPS,
+
+391) Correctness=0.0, MissingFeature=28.0, NotUsedBefore=5.0, Defects=73.0, Cost=125.35, 
+SiteSearch,Security,Active,Protocols,FTP,AdditionalServices,JSP,CGI,UserAuthentication,DataTransfer,HTTPS,
+
+392) Correctness=0.0, MissingFeature=28.0, NotUsedBefore=5.0, Defects=74.0, Cost=124.23, 
+SiteSearch,Security,Protocols,Persistence,FTP,AdditionalServices,Performance,XML,UserAuthentication,Sec,HTTPS,
+
+393) Correctness=0.0, MissingFeature=28.0, NotUsedBefore=6.0, Defects=71.0, Cost=118.72, 
+Security,Active,Protocols,Persistence,FTP,AdditionalServices,JSP,CGI,XML,UserAuthentication,HTTPS,
+
+394) Correctness=0.0, MissingFeature=28.0, NotUsedBefore=6.0, Defects=72.0, Cost=116.56, 
+SiteSearch,Security,Active,Protocols,Persistence,FTP,AdditionalServices,CGI,XML,UserAuthentication,HTTPS,
+
+395) Correctness=0.0, MissingFeature=28.0, NotUsedBefore=6.0, Defects=73.0, Cost=111.38, 
+SiteSearch,Security,Active,Protocols,Persistence,FTP,AdditionalServices,JSP,XML,UserAuthentication,HTTPS,
+
+396) Correctness=0.0, MissingFeature=28.0, NotUsedBefore=7.0, Defects=69.0, Cost=127.21000000000001, 
+Logging,Security,NTTP,Protocols,Persistence,FTP,AdditionalServices,Database,DB,UserAuthentication,HTTPS,
+
+397) Correctness=0.0, MissingFeature=28.0, NotUsedBefore=7.0, Defects=70.0, Cost=116.73999999999998, 
+Security,Active,NTTP,Protocols,Persistence,FTP,JSP,CGI,XML,UserAuthentication,HTTPS,
+
+398) Correctness=0.0, MissingFeature=28.0, NotUsedBefore=7.0, Defects=71.0, Cost=112.64, 
+Security,Active,NTTP,Protocols,Persistence,FTP,AdditionalServices,JSP,XML,UserAuthentication,HTTPS,
+
+399) Correctness=0.0, MissingFeature=28.0, NotUsedBefore=8.0, Defects=69.0, Cost=119.88, 
+Logging,Security,NTTP,Protocols,Persistence,FTP,AdditionalServices,File,XML,UserAuthentication,HTTPS,
+
+400) Correctness=0.0, MissingFeature=29.0, NotUsedBefore=4.0, Defects=70.0, Cost=124.48, 
+SiteSearch,Security,Protocols,FTP,AdditionalServices,Performance,UserAuthentication,Sec,DataTransfer,HTTPS,
+
+401) Correctness=0.0, MissingFeature=29.0, NotUsedBefore=5.0, Defects=67.0, Cost=112.55, 
+SiteSearch,Security,Active,Protocols,FTP,AdditionalServices,JSP,CGI,UserAuthentication,HTTPS,
+
+402) Correctness=0.0, MissingFeature=29.0, NotUsedBefore=5.0, Defects=68.0, Cost=110.2, 
+SiteSearch,Security,Protocols,Persistence,FTP,AdditionalServices,XML,UserAuthentication,DataTransfer,HTTPS,
+
+403) Correctness=0.0, MissingFeature=29.0, NotUsedBefore=6.0, Defects=65.0, Cost=113.81, 
+Security,Active,NTTP,Protocols,FTP,AdditionalServices,JSP,CGI,UserAuthentication,HTTPS,
+
+404) Correctness=0.0, MissingFeature=29.0, NotUsedBefore=6.0, Defects=66.0, Cost=105.04, 
+SiteSearch,Security,NTTP,Protocols,Persistence,FTP,AdditionalServices,XML,UserAuthentication,HTTPS,
+
+405) Correctness=0.0, MissingFeature=29.0, NotUsedBefore=6.0, Defects=67.0, Cost=105.0, 
+Security,Active,Protocols,Persistence,FTP,AdditionalServices,JSP,XML,UserAuthentication,HTTPS,
+
+406) Correctness=0.0, MissingFeature=29.0, NotUsedBefore=7.0, Defects=64.0, Cost=117.59, 
+Logging,Security,NTTP,Protocols,Persistence,FTP,Database,DB,UserAuthentication,HTTPS,
+
+407) Correctness=0.0, MissingFeature=29.0, NotUsedBefore=7.0, Defects=65.0, Cost=108.2, 
+Security,Active,NTTP,Protocols,Persistence,FTP,CGI,XML,UserAuthentication,HTTPS,
+
+408) Correctness=0.0, MissingFeature=29.0, NotUsedBefore=7.0, Defects=66.0, Cost=103.02, 
+Security,Active,NTTP,Protocols,Persistence,FTP,JSP,XML,UserAuthentication,HTTPS,
+
+409) Correctness=0.0, MissingFeature=29.0, NotUsedBefore=8.0, Defects=64.0, Cost=110.25999999999999, 
+Logging,Security,NTTP,Protocols,Persistence,FTP,File,XML,UserAuthentication,HTTPS,
+
+410) Correctness=0.0, MissingFeature=30.0, NotUsedBefore=4.0, Defects=64.0, Cost=111.68, 
+SiteSearch,Security,Protocols,FTP,AdditionalServices,Performance,UserAuthentication,Sec,HTTPS,
+
+411) Correctness=0.0, MissingFeature=30.0, NotUsedBefore=5.0, Defects=61.0, Cost=106.17, 
+Security,Active,Protocols,FTP,AdditionalServices,JSP,CGI,UserAuthentication,HTTPS,
+
+412) Correctness=0.0, MissingFeature=30.0, NotUsedBefore=5.0, Defects=62.0, Cost=97.4, 
+SiteSearch,Security,Protocols,Persistence,FTP,AdditionalServices,XML,UserAuthentication,HTTPS,
+
+413) Correctness=0.0, MissingFeature=30.0, NotUsedBefore=6.0, Defects=60.0, Cost=98.66000000000001, 
+Security,NTTP,Protocols,Persistence,FTP,AdditionalServices,XML,UserAuthentication,HTTPS,
+
+414) Correctness=0.0, MissingFeature=30.0, NotUsedBefore=6.0, Defects=62.0, Cost=95.38, 
+Security,Active,Protocols,Persistence,FTP,JSP,XML,UserAuthentication,HTTPS,
+
+415) Correctness=0.0, MissingFeature=30.0, NotUsedBefore=7.0, Defects=59.0, Cost=107.33, 
+Logging,Security,NTTP,Protocols,FTP,AdditionalServices,File,UserAuthentication,HTTPS,
+
+416) Correctness=0.0, MissingFeature=30.0, NotUsedBefore=8.0, Defects=59.0, Cost=106.28999999999999, 
+Logging,NTTP,Protocols,Persistence,FTP,AdditionalServices,File,XML,HTTPS,
+
+417) Correctness=0.0, MissingFeature=31.0, NotUsedBefore=4.0, Defects=58.0, Cost=97.65, 
+SiteSearch,Security,Protocols,FTP,AdditionalServices,UserAuthentication,DataTransfer,HTTPS,
+
+418) Correctness=0.0, MissingFeature=31.0, NotUsedBefore=5.0, Defects=56.0, Cost=91.02000000000001, 
+Security,Protocols,Persistence,FTP,AdditionalServices,XML,UserAuthentication,HTTPS,
+
+419) Correctness=0.0, MissingFeature=31.0, NotUsedBefore=6.0, Defects=55.0, Cost=89.04, 
+Security,NTTP,Protocols,Persistence,FTP,XML,UserAuthentication,HTTPS,
+
+420) Correctness=0.0, MissingFeature=31.0, NotUsedBefore=7.0, Defects=54.0, Cost=97.71, 
+Logging,Security,NTTP,Protocols,FTP,File,UserAuthentication,HTTPS,
+
+421) Correctness=0.0, MissingFeature=31.0, NotUsedBefore=8.0, Defects=54.0, Cost=96.67, 
+Logging,NTTP,Protocols,Persistence,FTP,File,XML,HTTPS,
+
+422) Correctness=0.0, MissingFeature=32.0, NotUsedBefore=4.0, Defects=52.0, Cost=84.85000000000001, 
+SiteSearch,Security,Protocols,FTP,AdditionalServices,UserAuthentication,HTTPS,
+
+423) Correctness=0.0, MissingFeature=32.0, NotUsedBefore=5.0, Defects=50.0, Cost=86.11, 
+Security,NTTP,Protocols,FTP,AdditionalServices,UserAuthentication,HTTPS,
+
+424) Correctness=0.0, MissingFeature=32.0, NotUsedBefore=5.0, Defects=51.0, Cost=81.39999999999999, 
+Security,Protocols,Persistence,FTP,XML,UserAuthentication,HTTPS,
+
+425) Correctness=0.0, MissingFeature=32.0, NotUsedBefore=6.0, Defects=50.0, Cost=85.07000000000001, 
+NTTP,Protocols,Persistence,FTP,AdditionalServices,XML,HTTPS,
+
+426) Correctness=0.0, MissingFeature=32.0, NotUsedBefore=7.0, Defects=49.0, Cost=93.74, 
+Logging,NTTP,Protocols,FTP,AdditionalServices,File,HTTPS,
+
+427) Correctness=0.0, MissingFeature=33.0, NotUsedBefore=3.0, Defects=52.0, Cost=93.69999999999999, 
+SiteSearch,Security,AdditionalServices,Performance,UserAuthentication,Sec,
+
+428) Correctness=0.0, MissingFeature=33.0, NotUsedBefore=4.0, Defects=46.0, Cost=78.47, 
+Security,Protocols,FTP,AdditionalServices,UserAuthentication,HTTPS,
+
+429) Correctness=0.0, MissingFeature=33.0, NotUsedBefore=5.0, Defects=45.0, Cost=76.49, 
+Security,NTTP,Protocols,FTP,UserAuthentication,HTTPS,
+
+430) Correctness=0.0, MissingFeature=33.0, NotUsedBefore=5.0, Defects=47.0, Cost=76.07, 
+Security,Protocols,Persistence,FTP,XML,UserAuthentication,
+
+431) Correctness=0.0, MissingFeature=33.0, NotUsedBefore=5.0, Defects=49.0, Cost=75.6, 
+Security,Protocols,Persistence,XML,UserAuthentication,HTTPS,
+
+432) Correctness=0.0, MissingFeature=33.0, NotUsedBefore=6.0, Defects=45.0, Cost=75.45, 
+NTTP,Protocols,Persistence,FTP,XML,HTTPS,
+
+433) Correctness=0.0, MissingFeature=33.0, NotUsedBefore=7.0, Defects=44.0, Cost=84.12, 
+Logging,NTTP,Protocols,FTP,File,HTTPS,
+
+434) Correctness=0.0, MissingFeature=34.0, NotUsedBefore=3.0, Defects=46.0, Cost=87.32, 
+Security,AdditionalServices,Performance,UserAuthentication,Sec,
+
+435) Correctness=0.0, MissingFeature=34.0, NotUsedBefore=4.0, Defects=41.0, Cost=68.85, 
+Security,Protocols,FTP,UserAuthentication,HTTPS,
+
+436) Correctness=0.0, MissingFeature=34.0, NotUsedBefore=5.0, Defects=40.0, Cost=72.52000000000001, 
+NTTP,Protocols,FTP,AdditionalServices,HTTPS,
+
+437) Correctness=0.0, MissingFeature=34.0, NotUsedBefore=5.0, Defects=41.0, Cost=67.81, 
+Protocols,Persistence,FTP,XML,HTTPS,
+
+438) Correctness=0.0, MissingFeature=35.0, NotUsedBefore=3.0, Defects=40.0, Cost=66.87, 
+SiteSearch,Security,AdditionalServices,UserAuthentication,
+
+439) Correctness=0.0, MissingFeature=35.0, NotUsedBefore=4.0, Defects=36.0, Cost=64.88, 
+Protocols,FTP,AdditionalServices,HTTPS,
+
+440) Correctness=0.0, MissingFeature=35.0, NotUsedBefore=4.0, Defects=37.0, Cost=63.519999999999996, 
+Security,Protocols,FTP,UserAuthentication,
+
+441) Correctness=0.0, MissingFeature=35.0, NotUsedBefore=4.0, Defects=39.0, Cost=63.05, 
+Security,Protocols,UserAuthentication,HTTPS,
+
+442) Correctness=0.0, MissingFeature=35.0, NotUsedBefore=5.0, Defects=35.0, Cost=62.9, 
+NTTP,Protocols,FTP,HTTPS,
+
+443) Correctness=0.0, MissingFeature=35.0, NotUsedBefore=5.0, Defects=37.0, Cost=62.480000000000004, 
+Protocols,Persistence,FTP,XML,
+
+444) Correctness=0.0, MissingFeature=35.0, NotUsedBefore=5.0, Defects=39.0, Cost=62.010000000000005, 
+Protocols,Persistence,XML,HTTPS,
+
+445) Correctness=0.0, MissingFeature=36.0, NotUsedBefore=3.0, Defects=34.0, Cost=60.49, 
+Security,AdditionalServices,UserAuthentication,
+
+446) Correctness=0.0, MissingFeature=36.0, NotUsedBefore=4.0, Defects=31.0, Cost=55.26, 
+Protocols,FTP,HTTPS,
+
+447) Correctness=0.0, MissingFeature=37.0, NotUsedBefore=3.0, Defects=29.0, Cost=50.870000000000005, 
+Security,UserAuthentication,
+
+448) Correctness=0.0, MissingFeature=37.0, NotUsedBefore=4.0, Defects=27.0, Cost=49.93, 
+Protocols,FTP,
+
+449) Correctness=0.0, MissingFeature=37.0, NotUsedBefore=4.0, Defects=29.0, Cost=49.46, 
+Protocols,HTTPS,
+
+450) Correctness=0.0, MissingFeature=38.0, NotUsedBefore=3.0, Defects=24.0, Cost=46.9, 
+AdditionalServices,
+
+451) Correctness=0.0, MissingFeature=39.0, NotUsedBefore=3.0, Defects=19.0, Cost=37.28, 
+
+
+%Correct=100.0
+%Time=586.173
+%Hypervolume=0.3396948440339342
+%Spread=0.8654384977769172
+%GD=0.0
+%IGD=0.0
+%Epsilon=0.0

@@ -1,0 +1,25 @@
+-i WebPortal_RAND2 -p "D:\Dropbox\Dropbox\Today\Product Experiments\compareBB_EA_new\webportal\IBEA_Attr2\m001_c01" -t 20 -set 1
+
+-i WebPortal_RAND2 -p "D:\Dropbox\Dropbox\Today\Product Experiments\compareBB_EA_new\webportal\IBEA_Attr2\m005_c02" -t 20 -set 2
+
+-i WebPortal_RAND2 -p "D:\Dropbox\Dropbox\Today\Product Experiments\compareBB_EA_new\webportal\IBEA_Attr2\m0083_c09" -t 20 -set 3
+
+-i WebPortal_RAND1 -p "D:\Dropbox\Dropbox\Today\Product Experiments\compareBB_EA_new\webportal\IBEA_Attr1\m001_c01" -t 20 -set 1
+
+-i WebPortal_RAND1 -p "D:\Dropbox\Dropbox\Today\Product Experiments\compareBB_EA_new\webportal\IBEA_Attr1\m005_c02" -t 20 -set 2
+
+-i WebPortal_RAND1 -p "D:\Dropbox\Dropbox\Today\Product Experiments\compareBB_EA_new\webportal\IBEA_Attr1\m0083_c09" -t 20 -set 3
+
+-i ChatSystem_PREDEFINE_ONE -p "D:\Dropbox\Dropbox\Today\Product Experiments\compareBB_EA_new\jchat\IBEA_Attr1\m001_c01" -t 20 -set 1
+
+-i ChatSystem_PREDEFINE_ONE -p "D:\Dropbox\Dropbox\Today\Product Experiments\compareBB_EA_new\jchat\IBEA_Attr1\m005_c02" -t 20 -set 2
+
+-i ChatSystem_PREDEFINE_ONE -p "D:\Dropbox\Dropbox\Today\Product Experiments\compareBB_EA_new\jchat\IBEA_Attr1\m0083_c09" -t 20 -set 3
+
+-i ChatSystem_RAND2 -p "D:\Dropbox\Dropbox\Today\Product Experiments\compareBB_EA_new\jchat\IBEA_Attr2\m001_c01" -t 20 -set 1
+
+-i ChatSystem_RAND2 -p "D:\Dropbox\Dropbox\Today\Product Experiments\compareBB_EA_new\jchat\IBEA_Attr2\m005_c02" -t 20 -set 2
+
+-i ChatSystem_RAND2 -p "D:\Dropbox\Dropbox\Today\Product Experiments\compareBB_EA_new\jchat\IBEA_Attr2\m0083_c09" -t 20 -set 3
+
+-i EShop_RAND1 -p "D:\Dropbox\Dropbox\Today\Product Experiments\compareBB_EA_new\eshop\IBEA_Attr1\m001_c01" -t 20 -set 1

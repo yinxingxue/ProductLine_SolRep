@@ -1,0 +1,3 @@
+system,m_correctnessA,m_correctnessB,m_timeA,m_timeB,m_hyperVolumnA,m_hyperVolumnB,m_spreadA,m_spreadB,A,B,intersect,uniqueA,uniqueB,correctInA,correctInB,intersectCorrect,uniqueCorrectA,uniqueCorrectB,nonDominant,nonDominantInA,nonDominantInB,uniqueNonDominantInA,uniqueNonDominantInB,
+C:\Users\yinxing\Desktop\yanfu_data\ibde results\ecos\IBDE_Attr2\para4\ps_100\6\ProductLine.log,100.0,94.0,453.827,47.869,0.29392661250292107,0.24800514791659267,0.5906596239947943,1.2002334580322331,12,48,0,12,48,12,46,0,12,46,58,12,46,12,46,
+C:\Users\yinxing\Desktop\yanfu_data\ibde results\ecos\IBDE_Attr2\para4,100.0,88.78463025107521,453.827,47.8795,0.29392661250292107,0.24765126260194428,0.5906596239947943,1.2461801378891268,12,1506,0,12,1506,12,1337,0,12,1337,916,12,904,12,904,

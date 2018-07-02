@@ -1,0 +1,566 @@
+Mandatory Feature Size=4
+Static,WebServer,Content,WebPortal,
+MustNotIn Feature Size=0
+
+Cost
+AdditionalServices=9.62,SiteStatistics=14.75,Basic=11.96,Advanced=12.03,SiteSearch=6.38,Images=7.9,Text=10.81,HTML=12.73,Dynamic=6.62,AdServer=11.61,Reports=9.35,Pop-ups=11.31,Banners=6.81,Image=13.05,Flash=8.98,KeywordSupport=13.26,Logging=11.19,DB=10.56,File=10.03,Protocols=6.85,NTTP=7.64,FTP=5.8,HTTPS=5.33,Active=5.44,ASP=9.75,PHP=14.1,JSP=8.54,CGI=13.72,Persistence=5.85,XML=6.7,Database=13.5,Security=5.18,DataStorage=11.97,DataTransfer=12.8,UserAuthentication=8.41,Performance=12.07,Ms=10.03,Sec=14.76,Min=10.76,Static=12.38,WebServer=5.45,Content=8.87,WebPortal=10.58,
+Defects
+AdditionalServices=5,SiteStatistics=5,Basic=8,Advanced=7,SiteSearch=6,Images=6,Text=3,HTML=8,Dynamic=3,AdServer=6,Reports=6,Pop-ups=6,Banners=5,Image=3,Flash=5,KeywordSupport=9,Logging=4,DB=4,File=5,Protocols=6,NTTP=4,FTP=2,HTTPS=4,Active=6,ASP=5,PHP=5,JSP=5,CGI=4,Persistence=6,XML=4,Database=5,Security=7,DataStorage=7,DataTransfer=6,UserAuthentication=3,Performance=6,Ms=3,Sec=6,Min=7,Static=5,WebServer=5,Content=3,WebPortal=6,
+NotUsedBefore
+AdditionalServices=false,SiteStatistics=true,Basic=false,Advanced=true,SiteSearch=false,Images=true,Text=true,HTML=false,Dynamic=false,AdServer=true,Reports=false,Pop-ups=false,Banners=true,Image=false,Flash=true,KeywordSupport=false,Logging=true,DB=false,File=true,Protocols=true,NTTP=true,FTP=false,HTTPS=false,Active=true,ASP=true,PHP=true,JSP=false,CGI=false,Persistence=false,XML=true,Database=true,Security=false,DataStorage=true,DataTransfer=false,UserAuthentication=false,Performance=false,Ms=true,Sec=false,Min=true,Static=true,WebServer=true,Content=true,WebPortal=false,
+===evaluation 200;Percentage=0.0;violatedCnt=4
+===evaluation 300;Percentage=0.0;violatedCnt=1
+===evaluation 400;Percentage=0.005128205128205128;violatedCnt=0
+===evaluation 500;Percentage=0.020942408376963352;violatedCnt=0
+===evaluation 600;Percentage=0.061855670103092786;violatedCnt=0
+===evaluation 700;Percentage=0.19791666666666666;violatedCnt=0
+===evaluation 800;Percentage=0.28426395939086296;violatedCnt=0
+===evaluation 900;Percentage=0.34517766497461927;violatedCnt=0
+===evaluation 1000;Percentage=0.48186528497409326;violatedCnt=0
+===evaluation 1100;Percentage=0.5510204081632653;violatedCnt=0
+===evaluation 1200;Percentage=0.5497382198952879;violatedCnt=0
+===evaluation 1300;Percentage=0.578125;violatedCnt=0
+===evaluation 1400;Percentage=0.6263157894736842;violatedCnt=0
+===evaluation 1500;Percentage=0.6648648648648648;violatedCnt=0
+===evaluation 1600;Percentage=0.648936170212766;violatedCnt=0
+===evaluation 1700;Percentage=0.6666666666666666;violatedCnt=0
+===evaluation 1800;Percentage=0.6358695652173914;violatedCnt=0
+===evaluation 1900;Percentage=0.631578947368421;violatedCnt=0
+===evaluation 2000;Percentage=0.643979057591623;violatedCnt=0
+===evaluation 2100;Percentage=0.6507936507936508;violatedCnt=0
+===evaluation 2200;Percentage=0.6041666666666666;violatedCnt=0
+===evaluation 2300;Percentage=0.6685082872928176;violatedCnt=0
+===evaluation 2400;Percentage=0.675392670157068;violatedCnt=0
+===evaluation 2500;Percentage=0.6458333333333334;violatedCnt=0
+===evaluation 2600;Percentage=0.6736842105263158;violatedCnt=0
+===evaluation 2700;Percentage=0.6861702127659575;violatedCnt=0
+===evaluation 2800;Percentage=0.7204301075268817;violatedCnt=0
+===evaluation 2900;Percentage=0.6974358974358974;violatedCnt=0
+===evaluation 3000;Percentage=0.708994708994709;violatedCnt=0
+===evaluation 3100;Percentage=0.671875;violatedCnt=0
+===evaluation 3200;Percentage=0.656084656084656;violatedCnt=0
+===evaluation 3300;Percentage=0.6631016042780749;violatedCnt=0
+===evaluation 3400;Percentage=0.6612903225806451;violatedCnt=0
+===evaluation 3500;Percentage=0.6720430107526881;violatedCnt=0
+===evaluation 3600;Percentage=0.6542553191489362;violatedCnt=0
+===evaluation 3700;Percentage=0.6702127659574468;violatedCnt=0
+===evaluation 3800;Percentage=0.6377551020408163;violatedCnt=0
+===evaluation 3900;Percentage=0.6736842105263158;violatedCnt=0
+===evaluation 4000;Percentage=0.6666666666666666;violatedCnt=0
+===evaluation 4100;Percentage=0.6914893617021277;violatedCnt=0
+===evaluation 4200;Percentage=0.7180851063829787;violatedCnt=0
+===evaluation 4300;Percentage=0.7142857142857143;violatedCnt=0
+===evaluation 4400;Percentage=0.6881720430107527;violatedCnt=0
+===evaluation 4500;Percentage=0.6894736842105263;violatedCnt=0
+===evaluation 4600;Percentage=0.6968085106382979;violatedCnt=0
+===evaluation 4700;Percentage=0.7272727272727273;violatedCnt=0
+===evaluation 4800;Percentage=0.6989247311827957;violatedCnt=0
+===evaluation 4900;Percentage=0.7015706806282722;violatedCnt=0
+===evaluation 5000;Percentage=0.6979166666666666;violatedCnt=0
+===evaluation 5100;Percentage=0.6632124352331606;violatedCnt=0
+===evaluation 5200;Percentage=0.6684210526315789;violatedCnt=0
+===evaluation 5300;Percentage=0.6772486772486772;violatedCnt=0
+===evaluation 5400;Percentage=0.7540983606557377;violatedCnt=0
+===evaluation 5500;Percentage=0.6683673469387755;violatedCnt=0
+===evaluation 5600;Percentage=0.6968085106382979;violatedCnt=0
+===evaluation 5700;Percentage=0.7074468085106383;violatedCnt=0
+===evaluation 5800;Percentage=0.6458333333333334;violatedCnt=0
+===evaluation 5900;Percentage=0.6910994764397905;violatedCnt=0
+===evaluation 6000;Percentage=0.6684782608695652;violatedCnt=0
+===evaluation 6100;Percentage=0.7005347593582888;violatedCnt=0
+===evaluation 6200;Percentage=0.6931216931216931;violatedCnt=0
+===evaluation 6300;Percentage=0.6684210526315789;violatedCnt=0
+===evaluation 6400;Percentage=0.6994535519125683;violatedCnt=0
+===evaluation 6500;Percentage=0.7068062827225131;violatedCnt=0
+===evaluation 6600;Percentage=0.7112299465240641;violatedCnt=0
+===evaluation 6700;Percentage=0.6822916666666666;violatedCnt=0
+===evaluation 6800;Percentage=0.6958762886597938;violatedCnt=0
+===evaluation 6900;Percentage=0.6458333333333334;violatedCnt=0
+===evaluation 7000;Percentage=0.6789473684210526;violatedCnt=0
+===evaluation 7100;Percentage=0.7010869565217391;violatedCnt=0
+===evaluation 7200;Percentage=0.6649484536082474;violatedCnt=0
+===evaluation 7300;Percentage=0.6787564766839378;violatedCnt=0
+===evaluation 7400;Percentage=0.6861702127659575;violatedCnt=0
+===evaluation 7500;Percentage=0.6994818652849741;violatedCnt=0
+===evaluation 7600;Percentage=0.6494845360824743;violatedCnt=0
+===evaluation 7700;Percentage=0.6927083333333334;violatedCnt=0
+===evaluation 7800;Percentage=0.6927083333333334;violatedCnt=0
+===evaluation 7900;Percentage=0.7197802197802198;violatedCnt=0
+===evaluation 8000;Percentage=0.7252747252747253;violatedCnt=0
+===evaluation 8100;Percentage=0.7120418848167539;violatedCnt=0
+===evaluation 8200;Percentage=0.7021276595744681;violatedCnt=0
+===evaluation 8300;Percentage=0.7052631578947368;violatedCnt=0
+===evaluation 8400;Percentage=0.6842105263157895;violatedCnt=0
+===evaluation 8500;Percentage=0.694300518134715;violatedCnt=0
+===evaluation 8600;Percentage=0.7058823529411765;violatedCnt=0
+===evaluation 8700;Percentage=0.7127659574468085;violatedCnt=0
+===evaluation 8800;Percentage=0.7135416666666666;violatedCnt=0
+===evaluation 8900;Percentage=0.7058823529411765;violatedCnt=0
+===evaluation 9000;Percentage=0.6898395721925134;violatedCnt=0
+===evaluation 9100;Percentage=0.6804123711340206;violatedCnt=0
+===evaluation 9200;Percentage=0.6822916666666666;violatedCnt=0
+===evaluation 9300;Percentage=0.6476683937823834;violatedCnt=0
+===evaluation 9400;Percentage=0.6914893617021277;violatedCnt=0
+===evaluation 9500;Percentage=0.7015706806282722;violatedCnt=0
+===evaluation 9600;Percentage=0.6717948717948717;violatedCnt=0
+===evaluation 9700;Percentage=0.7037037037037037;violatedCnt=0
+===evaluation 9800;Percentage=0.6935483870967742;violatedCnt=0
+===evaluation 9900;Percentage=0.723404255319149;violatedCnt=0
+===evaluation 10000;Percentage=0.711340206185567;violatedCnt=0
+===evaluation 10100;Percentage=0.7393617021276596;violatedCnt=0
+===evaluation 10200;Percentage=0.7021276595744681;violatedCnt=0
+===evaluation 10300;Percentage=0.7058823529411765;violatedCnt=0
+===evaluation 10400;Percentage=0.7074468085106383;violatedCnt=0
+===evaluation 10500;Percentage=0.6615384615384615;violatedCnt=0
+===evaluation 10600;Percentage=0.7228260869565217;violatedCnt=0
+===evaluation 10700;Percentage=0.7032967032967034;violatedCnt=0
+===evaluation 10800;Percentage=0.679144385026738;violatedCnt=0
+===evaluation 10900;Percentage=0.679144385026738;violatedCnt=0
+===evaluation 11000;Percentage=0.675392670157068;violatedCnt=0
+===evaluation 11100;Percentage=0.679144385026738;violatedCnt=0
+===evaluation 11200;Percentage=0.6774193548387096;violatedCnt=0
+===evaluation 11300;Percentage=0.717391304347826;violatedCnt=0
+===evaluation 11400;Percentage=0.6770833333333334;violatedCnt=0
+===evaluation 11500;Percentage=0.6666666666666666;violatedCnt=0
+===evaluation 11600;Percentage=0.6864864864864865;violatedCnt=0
+===evaluation 11700;Percentage=0.6735751295336787;violatedCnt=0
+===evaluation 11800;Percentage=0.6683937823834197;violatedCnt=0
+===evaluation 11900;Percentage=0.6612903225806451;violatedCnt=0
+===evaluation 12000;Percentage=0.6476683937823834;violatedCnt=0
+===evaluation 12100;Percentage=0.7021276595744681;violatedCnt=0
+===evaluation 12200;Percentage=0.6844919786096256;violatedCnt=0
+===evaluation 12300;Percentage=0.6861702127659575;violatedCnt=0
+===evaluation 12400;Percentage=0.6914893617021277;violatedCnt=0
+===evaluation 12500;Percentage=0.6476683937823834;violatedCnt=0
+===evaluation 12600;Percentage=0.6737967914438503;violatedCnt=0
+===evaluation 12700;Percentage=0.6770833333333334;violatedCnt=0
+===evaluation 12800;Percentage=0.7010309278350515;violatedCnt=0
+===evaluation 12900;Percentage=0.676923076923077;violatedCnt=0
+===evaluation 13000;Percentage=0.6842105263157895;violatedCnt=0
+===evaluation 13100;Percentage=0.7150537634408602;violatedCnt=0
+===evaluation 13200;Percentage=0.675531914893617;violatedCnt=0
+===evaluation 13300;Percentage=0.7377049180327869;violatedCnt=0
+===evaluation 13400;Percentage=0.708994708994709;violatedCnt=0
+===evaluation 13500;Percentage=0.7015706806282722;violatedCnt=0
+===evaluation 13600;Percentage=0.6871794871794872;violatedCnt=0
+===evaluation 13700;Percentage=0.6968085106382979;violatedCnt=0
+===evaluation 13800;Percentage=0.6947368421052632;violatedCnt=0
+===evaluation 13900;Percentage=0.7058823529411765;violatedCnt=0
+===evaluation 14000;Percentage=0.7127659574468085;violatedCnt=0
+===evaluation 14100;Percentage=0.7068062827225131;violatedCnt=0
+===evaluation 14200;Percentage=0.6931216931216931;violatedCnt=0
+===evaluation 14300;Percentage=0.7005347593582888;violatedCnt=0
+===evaluation 14400;Percentage=0.7219251336898396;violatedCnt=0
+===evaluation 14500;Percentage=0.6875;violatedCnt=0
+===evaluation 14600;Percentage=0.6951871657754011;violatedCnt=0
+===evaluation 14700;Percentage=0.6861702127659575;violatedCnt=0
+===evaluation 14800;Percentage=0.7158469945355191;violatedCnt=0
+===evaluation 14900;Percentage=0.6528497409326425;violatedCnt=0
+===evaluation 15000;Percentage=0.7189189189189189;violatedCnt=0
+===evaluation 15100;Percentage=0.6666666666666666;violatedCnt=0
+===evaluation 15200;Percentage=0.7043010752688172;violatedCnt=0
+===evaluation 15300;Percentage=0.7258064516129032;violatedCnt=0
+===evaluation 15400;Percentage=0.7165775401069518;violatedCnt=0
+===evaluation 15500;Percentage=0.7307692307692307;violatedCnt=0
+===evaluation 15600;Percentage=0.6878306878306878;violatedCnt=0
+===evaluation 15700;Percentage=0.7272727272727273;violatedCnt=0
+===evaluation 15800;Percentage=0.7068062827225131;violatedCnt=0
+===evaluation 15900;Percentage=0.7445652173913043;violatedCnt=0
+===evaluation 16000;Percentage=0.6958762886597938;violatedCnt=0
+===evaluation 16100;Percentage=0.703125;violatedCnt=0
+===evaluation 16200;Percentage=0.6875;violatedCnt=0
+===evaluation 16300;Percentage=0.7180851063829787;violatedCnt=0
+===evaluation 16400;Percentage=0.7058823529411765;violatedCnt=0
+===evaluation 16500;Percentage=0.7021276595744681;violatedCnt=0
+===evaluation 16600;Percentage=0.6984126984126984;violatedCnt=0
+===evaluation 16700;Percentage=0.7010309278350515;violatedCnt=0
+===evaluation 16800;Percentage=0.7297297297297297;violatedCnt=0
+===evaluation 16900;Percentage=0.671875;violatedCnt=0
+===evaluation 17000;Percentage=0.7074468085106383;violatedCnt=0
+===evaluation 17100;Percentage=0.680628272251309;violatedCnt=0
+===evaluation 17200;Percentage=0.7037037037037037;violatedCnt=0
+===evaluation 17300;Percentage=0.6978021978021978;violatedCnt=0
+===evaluation 17400;Percentage=0.6787564766839378;violatedCnt=0
+===evaluation 17500;Percentage=0.6756756756756757;violatedCnt=0
+===evaluation 17600;Percentage=0.7052631578947368;violatedCnt=0
+===evaluation 17700;Percentage=0.6968085106382979;violatedCnt=0
+===evaluation 17800;Percentage=0.6717948717948717;violatedCnt=0
+===evaluation 17900;Percentage=0.6772486772486772;violatedCnt=0
+===evaluation 18000;Percentage=0.671875;violatedCnt=0
+===evaluation 18100;Percentage=0.7015706806282722;violatedCnt=0
+===evaluation 18200;Percentage=0.6898395721925134;violatedCnt=0
+===evaluation 18300;Percentage=0.7043010752688172;violatedCnt=0
+===evaluation 18400;Percentage=0.6842105263157895;violatedCnt=0
+===evaluation 18500;Percentage=0.6613756613756614;violatedCnt=0
+===evaluation 18600;Percentage=0.6858638743455497;violatedCnt=0
+===evaluation 18700;Percentage=0.6822916666666666;violatedCnt=0
+===evaluation 18800;Percentage=0.7150537634408602;violatedCnt=0
+===evaluation 18900;Percentage=0.6631016042780749;violatedCnt=0
+===evaluation 19000;Percentage=0.6649214659685864;violatedCnt=0
+===evaluation 19100;Percentage=0.6804123711340206;violatedCnt=0
+===evaluation 19200;Percentage=0.680628272251309;violatedCnt=0
+===evaluation 19300;Percentage=0.6907216494845361;violatedCnt=0
+===evaluation 19400;Percentage=0.7074468085106383;violatedCnt=0
+===evaluation 19500;Percentage=0.7225130890052356;violatedCnt=0
+===evaluation 19600;Percentage=0.6804123711340206;violatedCnt=0
+===evaluation 19700;Percentage=0.6736842105263158;violatedCnt=0
+===evaluation 19800;Percentage=0.680628272251309;violatedCnt=0
+===evaluation 19900;Percentage=0.6923076923076923;violatedCnt=0
+===evaluation 20000;Percentage=0.6910994764397905;violatedCnt=0
+===evaluation 20100;Percentage=0.6968085106382979;violatedCnt=0
+===evaluation 20200;Percentage=0.7127659574468085;violatedCnt=0
+===evaluation 20300;Percentage=0.7021276595744681;violatedCnt=0
+===evaluation 20400;Percentage=0.6736842105263158;violatedCnt=0
+===evaluation 20500;Percentage=0.7351351351351352;violatedCnt=0
+===evaluation 20600;Percentage=0.6979166666666666;violatedCnt=0
+===evaluation 20700;Percentage=0.694300518134715;violatedCnt=0
+===evaluation 20800;Percentage=0.6804123711340206;violatedCnt=0
+===evaluation 20900;Percentage=0.6855670103092784;violatedCnt=0
+===evaluation 21000;Percentage=0.7105263157894737;violatedCnt=0
+===evaluation 21100;Percentage=0.7127659574468085;violatedCnt=0
+===evaluation 21200;Percentage=0.6614583333333334;violatedCnt=0
+===evaluation 21300;Percentage=0.7157894736842105;violatedCnt=0
+===evaluation 21400;Percentage=0.6875;violatedCnt=0
+===evaluation 21500;Percentage=0.7068062827225131;violatedCnt=0
+===evaluation 21600;Percentage=0.703125;violatedCnt=0
+===evaluation 21700;Percentage=0.6875;violatedCnt=0
+===evaluation 21800;Percentage=0.7150537634408602;violatedCnt=0
+===evaluation 21900;Percentage=0.6989247311827957;violatedCnt=0
+===evaluation 22000;Percentage=0.703125;violatedCnt=0
+===evaluation 22100;Percentage=0.6770833333333334;violatedCnt=0
+===evaluation 22200;Percentage=0.6683673469387755;violatedCnt=0
+===evaluation 22300;Percentage=0.6931216931216931;violatedCnt=0
+===evaluation 22400;Percentage=0.6878306878306878;violatedCnt=0
+===evaluation 22500;Percentage=0.6580310880829016;violatedCnt=0
+===evaluation 22600;Percentage=0.7058823529411765;violatedCnt=0
+===evaluation 22700;Percentage=0.6842105263157895;violatedCnt=0
+===evaluation 22800;Percentage=0.676923076923077;violatedCnt=0
+===evaluation 22900;Percentage=0.675531914893617;violatedCnt=0
+===evaluation 23000;Percentage=0.6861702127659575;violatedCnt=0
+===evaluation 23100;Percentage=0.6595744680851063;violatedCnt=0
+===evaluation 23200;Percentage=0.7015706806282722;violatedCnt=0
+===evaluation 23300;Percentage=0.7027027027027027;violatedCnt=0
+===evaluation 23400;Percentage=0.6968085106382979;violatedCnt=0
+===evaluation 23500;Percentage=0.7336956521739131;violatedCnt=0
+===evaluation 23600;Percentage=0.7195767195767195;violatedCnt=0
+===evaluation 23700;Percentage=0.6855670103092784;violatedCnt=0
+===evaluation 23800;Percentage=0.680628272251309;violatedCnt=0
+===evaluation 23900;Percentage=0.7204301075268817;violatedCnt=0
+===evaluation 24000;Percentage=0.7189189189189189;violatedCnt=0
+===evaluation 24100;Percentage=0.7135135135135136;violatedCnt=0
+===evaluation 24200;Percentage=0.6858638743455497;violatedCnt=0
+===evaluation 24300;Percentage=0.7046632124352331;violatedCnt=0
+===evaluation 24400;Percentage=0.6979166666666666;violatedCnt=0
+===evaluation 24500;Percentage=0.7210526315789474;violatedCnt=0
+===evaluation 24600;Percentage=0.6631578947368421;violatedCnt=0
+===evaluation 24700;Percentage=0.7180851063829787;violatedCnt=0
+===evaluation 24800;Percentage=0.6914893617021277;violatedCnt=0
+===evaluation 24900;Percentage=0.708994708994709;violatedCnt=0
+===evaluation 25000;Percentage=0.94;violatedCnt=0
+1) Correctness=0.0, MissingFeature=6.0, NotUsedBefore=16.0, Defects=191.0, Cost=361.18000000000006, 
+SiteSearch,Active,CGI,JSP,Reports,AdditionalServices,Security,UserAuthentication,
+
+2) Correctness=0.0, MissingFeature=6.0, NotUsedBefore=16.0, Defects=191.0, Cost=361.18000000000006, 
+Logging,Dynamic,Protocols,FTP,CGI,JSP,Reports,Text,HTML,AdditionalServices,Security,UserAuthentication,Persistence,Sec,SiteSearch,Active,HTTPS,DataTransfer,XML,Performance,DB,
+
+3) Correctness=0.0, MissingFeature=6.0, NotUsedBefore=16.0, Defects=191.0, Cost=361.18000000000006, 
+SiteSearch,Active,CGI,JSP,Reports,AdditionalServices,Security,UserAuthentication,
+
+4) Correctness=0.0, MissingFeature=7.0, NotUsedBefore=15.0, Defects=184.0, Cost=349.21000000000004, 
+SiteSearch,Protocols,Active,FTP,CGI,HTTPS,JSP,Reports,AdditionalServices,Security,UserAuthentication,
+
+5) Correctness=0.0, MissingFeature=7.0, NotUsedBefore=15.0, Defects=184.0, Cost=349.21000000000004, 
+SiteSearch,Protocols,Active,FTP,HTTPS,JSP,Reports,AdditionalServices,Security,UserAuthentication,
+
+6) Correctness=0.0, MissingFeature=8.0, NotUsedBefore=14.0, Defects=179.0, Cost=335.11, 
+Logging,Dynamic,Protocols,FTP,CGI,JSP,Reports,Text,HTML,AdditionalServices,Security,UserAuthentication,Sec,SiteSearch,Active,HTTPS,DataTransfer,Performance,DB,
+
+7) Correctness=0.0, MissingFeature=8.0, NotUsedBefore=14.0, Defects=179.0, Cost=335.11, 
+SiteSearch,Active,CGI,DataTransfer,JSP,Reports,AdditionalServices,Security,UserAuthentication,
+
+8) Correctness=0.0, MissingFeature=9.0, NotUsedBefore=13.0, Defects=174.0, Cost=325.36, 
+Logging,Dynamic,Protocols,FTP,CGI,JSP,Reports,Text,HTML,AdditionalServices,Security,UserAuthentication,Persistence,Sec,SiteSearch,Active,HTTPS,DataTransfer,XML,Performance,DB,
+
+9) Correctness=0.0, MissingFeature=10.0, NotUsedBefore=12.0, Defects=169.0, Cost=316.38, 
+SiteSearch,Active,CGI,JSP,Reports,AdditionalServices,Security,UserAuthentication,
+
+10) Correctness=0.0, MissingFeature=10.0, NotUsedBefore=12.0, Defects=169.0, Cost=316.38, 
+Dynamic,Protocols,FTP,CGI,JSP,Reports,Text,HTML,AdditionalServices,Security,UserAuthentication,Persistence,SiteSearch,Active,HTTPS,XML,
+
+11) Correctness=0.0, MissingFeature=11.0, NotUsedBefore=11.0, Defects=165.0, Cost=308.74, 
+Pop-ups,Dynamic,Protocols,FTP,Banners,HTML,Image,Security,HTTPS,DataTransfer,Logging,AdServer,CGI,KeywordSupport,JSP,Reports,Text,AdditionalServices,UserAuthentication,Persistence,Sec,SiteSearch,Active,XML,Performance,DB,
+
+12) Correctness=0.0, MissingFeature=11.0, NotUsedBefore=11.0, Defects=165.0, Cost=308.74, 
+Protocols,FTP,CGI,JSP,Reports,AdditionalServices,Security,UserAuthentication,Persistence,Sec,SiteSearch,Active,HTTPS,DataTransfer,XML,Performance,
+
+13) Correctness=0.0, MissingFeature=11.0, NotUsedBefore=12.0, Defects=161.0, Cost=298.65, 
+Pop-ups,Basic,Dynamic,Protocols,FTP,Banners,HTML,Image,Security,HTTPS,DataTransfer,Logging,SiteStatistics,AdServer,CGI,KeywordSupport,NTTP,JSP,Reports,Text,AdditionalServices,UserAuthentication,Persistence,Sec,SiteSearch,Active,XML,Performance,DB,
+
+14) Correctness=0.0, MissingFeature=12.0, NotUsedBefore=11.0, Defects=156.0, Cost=289.66999999999996, 
+SiteSearch,Active,JSP,AdditionalServices,Security,UserAuthentication,
+
+15) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=10.0, Defects=152.0, Cost=282.03, 
+Persistence,SiteSearch,Protocols,Active,FTP,HTTPS,JSP,XML,Reports,AdditionalServices,Security,UserAuthentication,
+
+16) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=10.0, Defects=152.0, Cost=282.03, 
+SiteSearch,Active,JSP,AdditionalServices,Security,UserAuthentication,
+
+17) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=10.0, Defects=152.0, Cost=282.03, 
+Pop-ups,Dynamic,Protocols,FTP,Banners,HTML,Image,Security,HTTPS,DataTransfer,Logging,AdServer,CGI,KeywordSupport,JSP,Reports,Text,AdditionalServices,UserAuthentication,Persistence,Sec,SiteSearch,Active,XML,Performance,DB,
+
+18) Correctness=0.0, MissingFeature=13.0, NotUsedBefore=10.0, Defects=152.0, Cost=282.03, 
+SiteSearch,Protocols,Active,FTP,HTTPS,JSP,AdditionalServices,Security,UserAuthentication,
+
+19) Correctness=0.0, MissingFeature=14.0, NotUsedBefore=10.0, Defects=143.0, Cost=268.77, 
+SiteSearch,Protocols,Active,FTP,HTTPS,JSP,AdditionalServices,Security,UserAuthentication,
+
+20) Correctness=0.0, MissingFeature=14.0, NotUsedBefore=10.0, Defects=143.0, Cost=268.77, 
+SiteSearch,Protocols,Active,FTP,HTTPS,JSP,Reports,AdditionalServices,Security,UserAuthentication,
+
+21) Correctness=0.0, MissingFeature=15.0, NotUsedBefore=9.0, Defects=144.0, Cost=260.28, 
+Pop-ups,Basic,Dynamic,Protocols,FTP,Banners,HTML,Image,Security,HTTPS,DataTransfer,Logging,SiteStatistics,AdServer,CGI,KeywordSupport,JSP,Reports,Text,AdditionalServices,UserAuthentication,Persistence,Sec,SiteSearch,Active,XML,Performance,DB,
+
+22) Correctness=0.0, MissingFeature=15.0, NotUsedBefore=9.0, Defects=144.0, Cost=260.28, 
+Pop-ups,Dynamic,Protocols,FTP,Banners,HTML,Image,Security,HTTPS,DataTransfer,Logging,AdServer,CGI,JSP,Reports,Text,AdditionalServices,UserAuthentication,Persistence,Sec,SiteSearch,Active,XML,Performance,DB,
+
+23) Correctness=0.0, MissingFeature=15.0, NotUsedBefore=9.0, Defects=144.0, Cost=260.28, 
+Logging,Protocols,FTP,NTTP,JSP,AdditionalServices,Security,UserAuthentication,Persistence,SiteSearch,Active,HTTPS,XML,DB,
+
+24) Correctness=0.0, MissingFeature=15.0, NotUsedBefore=11.0, Defects=134.0, Cost=253.11999999999998, 
+Logging,Dynamic,Protocols,FTP,NTTP,JSP,Text,HTML,AdditionalServices,Security,UserAuthentication,Persistence,SiteSearch,Active,HTTPS,XML,DB,
+
+25) Correctness=0.0, MissingFeature=16.0, NotUsedBefore=9.0, Defects=135.0, Cost=247.01999999999998, 
+Sec,SiteSearch,Active,CGI,DataTransfer,JSP,Reports,AdditionalServices,Security,UserAuthentication,Performance,
+
+26) Correctness=0.0, MissingFeature=16.0, NotUsedBefore=9.0, Defects=135.0, Cost=247.01999999999998, 
+Sec,SiteSearch,Active,CGI,DataTransfer,JSP,Reports,AdditionalServices,Security,UserAuthentication,Performance,
+
+27) Correctness=0.0, MissingFeature=16.0, NotUsedBefore=10.0, Defects=129.0, Cost=244.14, 
+SiteSearch,Active,JSP,Reports,AdditionalServices,Security,UserAuthentication,
+
+28) Correctness=0.0, MissingFeature=17.0, NotUsedBefore=9.0, Defects=125.0, Cost=236.49999999999997, 
+Logging,Dynamic,Protocols,FTP,CGI,JSP,Reports,Text,HTML,AdditionalServices,Security,UserAuthentication,Persistence,Sec,SiteSearch,Active,HTTPS,DataTransfer,XML,Performance,DB,
+
+29) Correctness=0.0, MissingFeature=18.0, NotUsedBefore=8.0, Defects=123.0, Cost=225.98999999999998, 
+SiteSearch,Protocols,Active,FTP,CGI,HTTPS,DataTransfer,JSP,Reports,AdditionalServices,Security,UserAuthentication,
+
+30) Correctness=0.0, MissingFeature=18.0, NotUsedBefore=8.0, Defects=123.0, Cost=225.98999999999998, 
+Pop-ups,Basic,DataStorage,Dynamic,Protocols,FTP,Banners,HTML,Image,Security,HTTPS,DataTransfer,PHP,Flash,ASP,Logging,SiteStatistics,AdServer,CGI,KeywordSupport,NTTP,JSP,Reports,Text,AdditionalServices,UserAuthentication,Persistence,Sec,SiteSearch,Active,XML,Performance,DB,
+
+31) Correctness=0.0, MissingFeature=18.0, NotUsedBefore=8.0, Defects=123.0, Cost=225.98999999999998, 
+SiteSearch,Active,CGI,JSP,Reports,AdditionalServices,Security,UserAuthentication,
+
+32) Correctness=0.0, MissingFeature=18.0, NotUsedBefore=8.0, Defects=123.0, Cost=225.98999999999998, 
+Logging,Dynamic,Protocols,FTP,CGI,JSP,Reports,Text,HTML,AdditionalServices,Security,UserAuthentication,Persistence,Sec,SiteSearch,Active,HTTPS,DataTransfer,XML,Performance,DB,
+
+33) Correctness=0.0, MissingFeature=18.0, NotUsedBefore=8.0, Defects=123.0, Cost=225.98999999999998, 
+SiteSearch,Active,CGI,JSP,Reports,AdditionalServices,Security,UserAuthentication,
+
+34) Correctness=0.0, MissingFeature=18.0, NotUsedBefore=8.0, Defects=123.0, Cost=225.98999999999998, 
+Sec,SiteSearch,Active,CGI,DataTransfer,JSP,Reports,AdditionalServices,Security,UserAuthentication,Performance,
+
+35) Correctness=0.0, MissingFeature=19.0, NotUsedBefore=10.0, Defects=111.0, Cost=204.51, 
+SiteSearch,Protocols,Active,FTP,CGI,HTTPS,JSP,Reports,AdditionalServices,Security,UserAuthentication,
+
+36) Correctness=0.0, MissingFeature=20.0, NotUsedBefore=7.0, Defects=113.0, Cost=213.44, 
+Dynamic,Protocols,FTP,JSP,Reports,Text,HTML,AdditionalServices,Security,UserAuthentication,Persistence,SiteSearch,Active,HTTPS,XML,
+
+37) Correctness=0.0, MissingFeature=20.0, NotUsedBefore=7.0, Defects=113.0, Cost=213.44, 
+SiteSearch,Protocols,Active,FTP,HTTPS,JSP,Reports,AdditionalServices,Security,UserAuthentication,
+
+38) Correctness=0.0, MissingFeature=20.0, NotUsedBefore=7.0, Defects=115.0, Cost=204.23999999999998, 
+Logging,Dynamic,Protocols,FTP,CGI,JSP,Reports,Text,HTML,AdditionalServices,Security,UserAuthentication,Sec,SiteSearch,Active,HTTPS,DataTransfer,Performance,DB,
+
+39) Correctness=0.0, MissingFeature=20.0, NotUsedBefore=7.0, Defects=115.0, Cost=204.23999999999998, 
+Dynamic,Protocols,FTP,JSP,Reports,Text,HTML,AdditionalServices,Security,UserAuthentication,Persistence,SiteSearch,Active,HTTPS,XML,
+
+40) Correctness=0.0, MissingFeature=20.0, NotUsedBefore=7.0, Defects=115.0, Cost=204.23999999999998, 
+Logging,Dynamic,Protocols,FTP,CGI,JSP,Reports,Text,HTML,AdditionalServices,Security,UserAuthentication,Persistence,SiteSearch,Active,HTTPS,XML,DB,
+
+41) Correctness=0.0, MissingFeature=20.0, NotUsedBefore=9.0, Defects=107.0, Cost=196.86999999999998, 
+SiteSearch,Active,CGI,DataTransfer,JSP,Reports,AdditionalServices,Security,UserAuthentication,
+
+42) Correctness=0.0, MissingFeature=21.0, NotUsedBefore=8.0, Defects=105.0, Cost=186.35999999999999, 
+Logging,Dynamic,Protocols,FTP,CGI,JSP,Reports,Text,HTML,AdditionalServices,Security,UserAuthentication,Persistence,Sec,SiteSearch,Active,HTTPS,DataTransfer,XML,Performance,DB,
+
+43) Correctness=0.0, MissingFeature=21.0, NotUsedBefore=8.0, Defects=105.0, Cost=186.35999999999999, 
+SiteSearch,Active,CGI,JSP,Reports,AdditionalServices,Security,UserAuthentication,
+
+44) Correctness=0.0, MissingFeature=22.0, NotUsedBefore=6.0, Defects=105.0, Cost=191.69, 
+Pop-ups,Basic,Dynamic,Protocols,FTP,Banners,HTML,Image,Security,HTTPS,DataTransfer,PHP,Flash,ASP,Logging,SiteStatistics,AdServer,CGI,KeywordSupport,NTTP,JSP,Reports,Text,AdditionalServices,UserAuthentication,Persistence,Sec,SiteSearch,Active,XML,Performance,DB,
+
+45) Correctness=0.0, MissingFeature=22.0, NotUsedBefore=6.0, Defects=105.0, Cost=191.69, 
+SiteSearch,Active,JSP,AdditionalServices,Security,UserAuthentication,
+
+46) Correctness=0.0, MissingFeature=22.0, NotUsedBefore=6.0, Defects=105.0, Cost=191.69, 
+SiteSearch,Active,JSP,AdditionalServices,Security,UserAuthentication,
+
+47) Correctness=0.0, MissingFeature=22.0, NotUsedBefore=6.0, Defects=105.0, Cost=191.69, 
+Persistence,SiteSearch,Protocols,Active,FTP,HTTPS,NTTP,JSP,XML,AdditionalServices,Security,UserAuthentication,
+
+48) Correctness=0.0, MissingFeature=22.0, NotUsedBefore=9.0, Defects=99.0, Cost=170.92999999999998, 
+Persistence,SiteSearch,Protocols,Active,FTP,HTTPS,JSP,XML,AdditionalServices,Security,UserAuthentication,
+
+49) Correctness=0.0, MissingFeature=23.0, NotUsedBefore=6.0, Defects=99.0, Cost=178.89, 
+Protocols,FTP,CGI,JSP,Reports,AdditionalServices,Security,UserAuthentication,Sec,SiteSearch,Active,HTTPS,DataTransfer,Performance,
+
+50) Correctness=0.0, MissingFeature=23.0, NotUsedBefore=6.0, Defects=101.0, Cost=174.07999999999998, 
+Dynamic,Protocols,FTP,CGI,JSP,Reports,Text,HTML,AdditionalServices,Security,UserAuthentication,Persistence,SiteSearch,Active,HTTPS,XML,
+
+51) Correctness=0.0, MissingFeature=23.0, NotUsedBefore=6.0, Defects=101.0, Cost=174.07999999999998, 
+Protocols,FTP,CGI,JSP,Reports,AdditionalServices,Security,UserAuthentication,Sec,SiteSearch,Active,HTTPS,DataTransfer,Performance,
+
+52) Correctness=0.0, MissingFeature=23.0, NotUsedBefore=7.0, Defects=97.0, Cost=164.60999999999999, 
+Protocols,FTP,CGI,JSP,Reports,AdditionalServices,Security,UserAuthentication,Persistence,SiteSearch,Active,HTTPS,XML,
+
+53) Correctness=0.0, MissingFeature=23.0, NotUsedBefore=7.0, Defects=97.0, Cost=164.60999999999999, 
+Protocols,FTP,CGI,JSP,Reports,AdditionalServices,Security,UserAuthentication,Sec,SiteSearch,Active,HTTPS,DataTransfer,Performance,
+
+54) Correctness=0.0, MissingFeature=24.0, NotUsedBefore=7.0, Defects=93.0, Cost=150.89, 
+Protocols,FTP,CGI,JSP,Reports,AdditionalServices,Security,UserAuthentication,Sec,SiteSearch,Active,HTTPS,DataTransfer,Performance,
+
+55) Correctness=0.0, MissingFeature=24.0, NotUsedBefore=7.0, Defects=93.0, Cost=150.89, 
+Pop-ups,Dynamic,Protocols,FTP,Banners,HTML,Image,Security,HTTPS,DataTransfer,Logging,AdServer,CGI,KeywordSupport,JSP,Reports,Text,AdditionalServices,UserAuthentication,Persistence,Sec,SiteSearch,Active,XML,Performance,DB,
+
+56) Correctness=0.0, MissingFeature=25.0, NotUsedBefore=5.0, Defects=91.0, Cost=161.53000000000003, 
+Protocols,FTP,CGI,JSP,Reports,AdditionalServices,Security,UserAuthentication,Persistence,Sec,SiteSearch,Active,HTTPS,DataTransfer,XML,Performance,
+
+57) Correctness=0.0, MissingFeature=25.0, NotUsedBefore=5.0, Defects=91.0, Cost=161.53000000000003, 
+Pop-ups,Basic,Dynamic,Protocols,FTP,Banners,HTML,Image,Security,HTTPS,DataTransfer,Logging,SiteStatistics,AdServer,CGI,KeywordSupport,NTTP,JSP,Reports,Text,AdditionalServices,UserAuthentication,Persistence,Sec,SiteSearch,Active,XML,Performance,DB,
+
+58) Correctness=0.0, MissingFeature=25.0, NotUsedBefore=5.0, Defects=91.0, Cost=161.53000000000003, 
+SiteSearch,Active,JSP,AdditionalServices,Security,UserAuthentication,
+
+59) Correctness=0.0, MissingFeature=25.0, NotUsedBefore=5.0, Defects=91.0, Cost=161.53000000000003, 
+Logging,Dynamic,Protocols,FTP,CGI,Banners,JSP,Text,HTML,AdditionalServices,Image,Security,UserAuthentication,Persistence,Sec,SiteSearch,Active,HTTPS,DataTransfer,XML,Performance,DB,
+
+60) Correctness=0.0, MissingFeature=25.0, NotUsedBefore=5.0, Defects=91.0, Cost=161.53000000000003, 
+Dynamic,Protocols,FTP,CGI,JSP,Reports,Text,HTML,AdditionalServices,Security,UserAuthentication,Sec,SiteSearch,Active,HTTPS,DataTransfer,Performance,
+
+61) Correctness=0.0, MissingFeature=25.0, NotUsedBefore=8.0, Defects=85.0, Cost=140.76999999999998, 
+Pop-ups,Dynamic,Protocols,FTP,Banners,HTML,Image,Security,HTTPS,DataTransfer,Logging,AdServer,CGI,KeywordSupport,JSP,Reports,Text,AdditionalServices,UserAuthentication,Persistence,Sec,SiteSearch,Active,XML,Performance,DB,
+
+62) Correctness=0.0, MissingFeature=26.0, NotUsedBefore=5.0, Defects=85.0, Cost=148.73000000000002, 
+Pop-ups,Basic,DataStorage,Dynamic,Protocols,FTP,Banners,HTML,Image,Security,HTTPS,DataTransfer,PHP,Flash,ASP,Logging,SiteStatistics,AdServer,CGI,KeywordSupport,NTTP,JSP,Reports,Text,AdditionalServices,UserAuthentication,Persistence,Sec,SiteSearch,Active,XML,Performance,DB,
+
+63) Correctness=0.0, MissingFeature=26.0, NotUsedBefore=5.0, Defects=85.0, Cost=148.73000000000002, 
+SiteSearch,Protocols,Active,FTP,HTTPS,JSP,Reports,AdditionalServices,Security,UserAuthentication,
+
+64) Correctness=0.0, MissingFeature=26.0, NotUsedBefore=6.0, Defects=83.0, Cost=134.45, 
+Pop-ups,Basic,Dynamic,Protocols,FTP,Banners,HTML,Image,Security,HTTPS,DataTransfer,Logging,SiteStatistics,AdServer,CGI,KeywordSupport,JSP,Reports,Text,AdditionalServices,UserAuthentication,Persistence,Sec,SiteSearch,Active,XML,Performance,DB,
+
+65) Correctness=0.0, MissingFeature=26.0, NotUsedBefore=6.0, Defects=83.0, Cost=134.45, 
+Pop-ups,Dynamic,Protocols,FTP,Banners,HTML,Image,Security,HTTPS,DataTransfer,Logging,AdServer,CGI,JSP,Reports,Text,AdditionalServices,UserAuthentication,Persistence,Sec,SiteSearch,Active,XML,Performance,DB,
+
+66) Correctness=0.0, MissingFeature=27.0, NotUsedBefore=5.0, Defects=79.0, Cost=134.7, 
+Dynamic,Protocols,FTP,CGI,JSP,Reports,Text,HTML,AdditionalServices,Security,UserAuthentication,Persistence,Sec,SiteSearch,Active,HTTPS,DataTransfer,XML,Performance,
+
+67) Correctness=0.0, MissingFeature=27.0, NotUsedBefore=5.0, Defects=79.0, Cost=134.7, 
+Dynamic,Protocols,FTP,CGI,JSP,Reports,Text,HTML,AdditionalServices,Security,UserAuthentication,Persistence,Sec,SiteSearch,Active,HTTPS,DataTransfer,XML,Performance,
+
+68) Correctness=0.0, MissingFeature=27.0, NotUsedBefore=6.0, Defects=79.0, Cost=120.72999999999999, 
+Dynamic,Protocols,FTP,CGI,JSP,Reports,Text,HTML,AdditionalServices,Security,UserAuthentication,Persistence,Sec,SiteSearch,Active,HTTPS,DataTransfer,XML,Performance,
+
+69) Correctness=0.0, MissingFeature=27.0, NotUsedBefore=7.0, Defects=77.0, Cost=119.01999999999998, 
+Logging,Dynamic,Protocols,FTP,CGI,Banners,JSP,Text,HTML,AdditionalServices,Image,Security,UserAuthentication,Persistence,SiteSearch,Active,HTTPS,XML,DB,
+
+70) Correctness=0.0, MissingFeature=28.0, NotUsedBefore=4.0, Defects=79.0, Cost=143.55, 
+Protocols,FTP,CGI,JSP,Reports,AdditionalServices,Security,UserAuthentication,Persistence,SiteSearch,Active,HTTPS,XML,
+
+71) Correctness=0.0, MissingFeature=28.0, NotUsedBefore=4.0, Defects=79.0, Cost=143.55, 
+Logging,Dynamic,Protocols,FTP,CGI,JSP,Reports,Text,HTML,AdditionalServices,Security,UserAuthentication,Persistence,SiteSearch,Active,HTTPS,XML,DB,
+
+72) Correctness=0.0, MissingFeature=28.0, NotUsedBefore=4.0, Defects=79.0, Cost=143.55, 
+SiteSearch,Active,JSP,AdditionalServices,Security,UserAuthentication,
+
+73) Correctness=0.0, MissingFeature=28.0, NotUsedBefore=5.0, Defects=73.0, Cost=121.9, 
+SiteSearch,Active,JSP,AdditionalServices,Security,UserAuthentication,
+
+74) Correctness=0.0, MissingFeature=28.0, NotUsedBefore=5.0, Defects=73.0, Cost=121.9, 
+SiteSearch,Active,JSP,AdditionalServices,Security,UserAuthentication,
+
+75) Correctness=0.0, MissingFeature=28.0, NotUsedBefore=6.0, Defects=73.0, Cost=111.38, 
+Pop-ups,Dynamic,Protocols,FTP,Banners,HTML,Image,Security,HTTPS,DataTransfer,Flash,Logging,AdServer,CGI,KeywordSupport,NTTP,JSP,Reports,Text,AdditionalServices,UserAuthentication,Persistence,Sec,SiteSearch,Active,XML,Performance,DB,
+
+76) Correctness=0.0, MissingFeature=29.0, NotUsedBefore=4.0, Defects=73.0, Cost=130.75, 
+SiteSearch,Active,CGI,JSP,AdditionalServices,Security,UserAuthentication,
+
+77) Correctness=0.0, MissingFeature=29.0, NotUsedBefore=5.0, Defects=69.0, Cost=108.17999999999999, 
+Pop-ups,Basic,Dynamic,Protocols,FTP,Banners,HTML,Image,Security,HTTPS,DataTransfer,PHP,Flash,ASP,Logging,SiteStatistics,AdServer,CGI,KeywordSupport,NTTP,JSP,Reports,Text,AdditionalServices,UserAuthentication,Persistence,Sec,SiteSearch,Active,XML,Performance,DB,
+
+78) Correctness=0.0, MissingFeature=29.0, NotUsedBefore=5.0, Defects=69.0, Cost=108.17999999999999, 
+Pop-ups,Dynamic,Protocols,FTP,Banners,HTML,Image,Security,HTTPS,DataTransfer,Logging,AdServer,CGI,KeywordSupport,NTTP,JSP,Reports,Text,AdditionalServices,UserAuthentication,Persistence,Sec,SiteSearch,Active,XML,Performance,DB,
+
+79) Correctness=0.0, MissingFeature=29.0, NotUsedBefore=5.0, Defects=69.0, Cost=108.17999999999999, 
+Protocols,FTP,CGI,JSP,Reports,AdditionalServices,Security,UserAuthentication,Sec,SiteSearch,Active,HTTPS,DataTransfer,Performance,
+
+80) Correctness=0.0, MissingFeature=29.0, NotUsedBefore=5.0, Defects=69.0, Cost=108.17999999999999, 
+Logging,Dynamic,Protocols,FTP,CGI,JSP,Reports,Text,HTML,AdditionalServices,Security,UserAuthentication,Persistence,Sec,SiteSearch,Active,HTTPS,DataTransfer,XML,Performance,DB,
+
+81) Correctness=0.0, MissingFeature=30.0, NotUsedBefore=4.0, Defects=67.0, Cost=116.72, 
+SiteSearch,Protocols,Active,FTP,CGI,HTTPS,DataTransfer,JSP,Reports,AdditionalServices,Security,UserAuthentication,
+
+82) Correctness=0.0, MissingFeature=30.0, NotUsedBefore=4.0, Defects=67.0, Cost=116.72, 
+Logging,Dynamic,Protocols,FTP,CGI,Banners,NTTP,JSP,Text,HTML,AdditionalServices,Image,Security,UserAuthentication,Persistence,Sec,SiteSearch,Active,HTTPS,DataTransfer,XML,Flash,Performance,DB,
+
+83) Correctness=0.0, MissingFeature=30.0, NotUsedBefore=5.0, Defects=63.0, Cost=98.83, 
+Dynamic,Protocols,FTP,CGI,JSP,Reports,Text,HTML,AdditionalServices,Security,UserAuthentication,Sec,SiteSearch,Active,HTTPS,DataTransfer,Performance,
+
+84) Correctness=0.0, MissingFeature=30.0, NotUsedBefore=5.0, Defects=63.0, Cost=98.83, 
+Dynamic,Protocols,FTP,CGI,JSP,Reports,Text,HTML,AdditionalServices,Security,UserAuthentication,Sec,SiteSearch,Active,HTTPS,DataTransfer,Performance,
+
+85) Correctness=0.0, MissingFeature=31.0, NotUsedBefore=4.0, Defects=61.0, Cost=103.92, 
+Dynamic,Protocols,FTP,CGI,JSP,Reports,Text,HTML,AdditionalServices,Security,UserAuthentication,Sec,SiteSearch,Active,HTTPS,DataTransfer,Performance,
+
+86) Correctness=0.0, MissingFeature=31.0, NotUsedBefore=4.0, Defects=61.0, Cost=103.92, 
+Pop-ups,Basic,DataStorage,Dynamic,Protocols,FTP,Banners,HTML,Image,Security,HTTPS,DataTransfer,PHP,Flash,ASP,Logging,SiteStatistics,AdServer,CGI,KeywordSupport,NTTP,JSP,Reports,Text,AdditionalServices,UserAuthentication,Persistence,Sec,SiteSearch,Active,XML,Performance,DB,
+
+87) Correctness=0.0, MissingFeature=31.0, NotUsedBefore=4.0, Defects=61.0, Cost=103.92, 
+Sec,SiteSearch,Active,CGI,JSP,Reports,AdditionalServices,Security,UserAuthentication,Performance,
+
+88) Correctness=0.0, MissingFeature=31.0, NotUsedBefore=4.0, Defects=61.0, Cost=103.92, 
+Pop-ups,Dynamic,Protocols,FTP,AdServer,CGI,Banners,KeywordSupport,JSP,Reports,Text,HTML,AdditionalServices,Image,Security,UserAuthentication,Persistence,Sec,SiteSearch,Active,HTTPS,DataTransfer,XML,Performance,
+
+89) Correctness=0.0, MissingFeature=31.0, NotUsedBefore=4.0, Defects=61.0, Cost=103.92, 
+Pop-ups,Dynamic,Protocols,FTP,AdServer,CGI,Banners,JSP,Reports,Text,HTML,AdditionalServices,Image,Security,UserAuthentication,Persistence,Sec,SiteSearch,Active,HTTPS,DataTransfer,XML,Performance,
+
+90) Correctness=0.0, MissingFeature=31.0, NotUsedBefore=4.0, Defects=61.0, Cost=103.92, 
+Pop-ups,Basic,Dynamic,Protocols,FTP,Banners,HTML,Image,Security,HTTPS,DataTransfer,Flash,ASP,Logging,SiteStatistics,AdServer,CGI,KeywordSupport,NTTP,JSP,Reports,Text,AdditionalServices,UserAuthentication,Persistence,Sec,SiteSearch,Active,XML,Performance,DB,
+
+91) Correctness=0.0, MissingFeature=32.0, NotUsedBefore=4.0, Defects=55.0, Cost=94.57000000000001, 
+Pop-ups,Basic,Dynamic,Protocols,FTP,Banners,HTML,Image,Security,HTTPS,DataTransfer,Flash,ASP,Logging,SiteStatistics,AdServer,CGI,KeywordSupport,NTTP,JSP,Reports,Text,AdditionalServices,UserAuthentication,Persistence,Sec,SiteSearch,Active,XML,Performance,DB,
+
+92) Correctness=0.0, MissingFeature=32.0, NotUsedBefore=4.0, Defects=57.0, Cost=90.2, 
+Protocols,FTP,CGI,JSP,Reports,AdditionalServices,Security,UserAuthentication,Sec,SiteSearch,Active,HTTPS,Performance,
+
+93) Correctness=0.0, MissingFeature=33.0, NotUsedBefore=4.0, Defects=51.0, Cost=80.85, 
+Pop-ups,Basic,Dynamic,Protocols,FTP,Banners,HTML,Image,Security,HTTPS,DataTransfer,Flash,Logging,SiteStatistics,AdServer,CGI,KeywordSupport,NTTP,JSP,Reports,Text,AdditionalServices,UserAuthentication,Persistence,Sec,SiteSearch,Active,XML,Performance,DB,
+
+94) Correctness=0.0, MissingFeature=33.0, NotUsedBefore=4.0, Defects=51.0, Cost=80.85, 
+Protocols,FTP,CGI,JSP,Reports,AdditionalServices,Security,UserAuthentication,Sec,SiteSearch,Active,HTTPS,Performance,
+
+95) Correctness=0.0, MissingFeature=33.0, NotUsedBefore=4.0, Defects=51.0, Cost=80.85, 
+Dynamic,Protocols,FTP,CGI,JSP,Reports,Text,HTML,AdditionalServices,Security,UserAuthentication,Sec,SiteSearch,Active,HTTPS,Performance,
+
+96) Correctness=0.0, MissingFeature=33.0, NotUsedBefore=4.0, Defects=51.0, Cost=80.85, 
+Pop-ups,Dynamic,Protocols,FTP,AdServer,CGI,Banners,JSP,Reports,Text,HTML,AdditionalServices,Image,Security,UserAuthentication,Persistence,Sec,SiteSearch,Active,HTTPS,DataTransfer,XML,Performance,
+
+97) Correctness=0.0, MissingFeature=33.0, NotUsedBefore=4.0, Defects=51.0, Cost=80.85, 
+Logging,Dynamic,Protocols,FTP,CGI,Banners,NTTP,JSP,Text,HTML,AdditionalServices,Image,Security,UserAuthentication,Persistence,Sec,SiteSearch,Active,HTTPS,DataTransfer,XML,Performance,DB,
+
+98) Correctness=0.0, MissingFeature=33.0, NotUsedBefore=4.0, Defects=51.0, Cost=80.85, 
+Pop-ups,Dynamic,Protocols,FTP,AdServer,CGI,Banners,KeywordSupport,JSP,Reports,Text,HTML,AdditionalServices,Image,Security,UserAuthentication,Persistence,Sec,SiteSearch,Active,HTTPS,DataTransfer,XML,Performance,
+
+99) Correctness=0.0, MissingFeature=33.0, NotUsedBefore=4.0, Defects=51.0, Cost=80.85, 
+Logging,Dynamic,Protocols,FTP,CGI,Banners,NTTP,JSP,Text,HTML,AdditionalServices,Image,Security,UserAuthentication,Persistence,SiteSearch,Active,HTTPS,XML,DB,
+
+100) Correctness=0.0, MissingFeature=33.0, NotUsedBefore=4.0, Defects=51.0, Cost=80.85, 
+Pop-ups,Dynamic,Protocols,FTP,AdServer,CGI,Banners,KeywordSupport,JSP,Reports,Text,HTML,AdditionalServices,Image,Security,UserAuthentication,Persistence,Sec,SiteSearch,Active,HTTPS,DataTransfer,XML,Performance,
+
+%Correct=100.0
+%Time=5.506
+%Hypervolume=0.3125951008168692
+%Spread=1.1434877639957246
+%GD=0.0
+%IGD=0.0
+%Epsilon=0.0

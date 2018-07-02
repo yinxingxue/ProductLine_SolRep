@@ -1,0 +1,30 @@
+288   Site_search
+42   Catalog
+48   Basic_information
+2   Store_front
+289   Search_engine_registration
+285   General_layout_management
+186   Fulfillment
+107   Checkout_type
+103   Cart_content_page
+118   Taxation_options
+102   Inventory_management_policy
+184   Business_management
+185   Order_management
+139   Payment_types
+158   Order_confirmation
+287   Store_administration
+43   Product_Information
+1   EShop
+100   Buy_paths
+283   Product_database_management
+106   Checkout
+138   Payment_options
+44   Product_type
+290   Domain_name_setup
+282   Content_management
+281   Administration
+284   Presentation_options
+101   Shopping_cart
+
+817ms
